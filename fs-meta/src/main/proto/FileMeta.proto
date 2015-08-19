@@ -1,0 +1,13 @@
+option java_package = "org.simplefs.fs.meta.serial.proto";
+option java_outer_classname = "FileMetaProtos";
+option java_generic_services = true;
+option java_generate_equals_and_hash = true;
+option optimize_for=SPEED;
+
+message FileMeta {
+    required string fileId = 1;
+    optional string fileName = 2;
+    required int64 fileSize = 3;
+    required int64 createTime = 4;
+    required string innerFileId = 5;
+}

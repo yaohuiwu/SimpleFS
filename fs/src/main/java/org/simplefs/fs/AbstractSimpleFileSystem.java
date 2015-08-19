@@ -8,4 +8,8 @@ public abstract class AbstractSimpleFileSystem implements SimpleFileSystem{
 
     protected abstract void setConfig(Config config);
 
+    @Override
+    public String save(byte[] fileContent) {
+        return save(fileContent, null);
+    }
 }

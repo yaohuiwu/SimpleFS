@@ -48,11 +48,11 @@ public class LocalFileSystem extends AbstractSimpleFileSystem {
         return s.toString();
     }
 
-    public String save(byte[] fileContent) {
+    public String save(byte[] fileContent, String fileName) {
 
         final String fileId = FileSystems.createFileId();
 
-        FileMeta meta = new FileMeta(fileId, null, fileContent.length, System.currentTimeMillis(), fileId);
+        FileMeta meta = new FileMeta(fileId, fileName, fileContent.length, System.currentTimeMillis(), fileId);
         fileMetaManager.save(meta);
 
         String fullPath = getFullPath(meta);

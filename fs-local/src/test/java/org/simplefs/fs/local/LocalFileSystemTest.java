@@ -40,7 +40,7 @@ public class LocalFileSystemTest {
         byte[] allBytes = Files.readAllBytes(loggerFile);
 
         //save
-        String fileId = simpleFs.save(allBytes);
+        String fileId = simpleFs.save(allBytes, "simplelogger.properties");
 
         //get meta
         FileInfo fileInfo = simpleFs.getMeta(fileId);
@@ -53,4 +53,6 @@ public class LocalFileSystemTest {
 
         Assert.assertTrue(simpleFs.delete(fileId));
     }
+
+
 }

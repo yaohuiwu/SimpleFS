@@ -18,6 +18,15 @@ public interface SimpleFileSystem {
     String save(byte[] fileContent);
 
     /**
+     * Save a file into SFS.
+     * @param fileContent byte content of the file.
+     * @param fileName name of the file.
+     * @return a string file id return for you to handle the file
+     *  after the file saved.
+     */
+    String save(byte[] fileContent, String fileName);
+
+    /**
      * Delete the file by file id.
      * @param fileId id of the file.(you got it from save* methods).
      * @return true if the file successfully deleted, otherwise return false.

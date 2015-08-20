@@ -1,4 +1,4 @@
-package org.simplefs.fs.cfg;
+package org.simplefs.fs.common.cfg;
 
 public class LocalFSConfig extends Config{
 

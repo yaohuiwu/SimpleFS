@@ -3,9 +3,9 @@ package org.simplefs.fs.local;
 import org.junit.Assert;
 import org.junit.Test;
 import org.simplefs.fs.FileInfo;
-import org.simplefs.fs.FileSystems;
 import org.simplefs.fs.SimpleFileSystem;
-import org.simplefs.fs.cfg.LocalFSConfig;
+import org.simplefs.fs.common.FileSystems;
+import org.simplefs.fs.common.cfg.LocalFSConfig;
 
 import java.net.URL;
 import java.nio.file.Files;

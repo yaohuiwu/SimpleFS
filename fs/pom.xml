@@ -12,7 +12,7 @@
   <artifactId>fs</artifactId>
   <packaging>jar</packaging>
 
-  <name>fs</name>
+  <name>SimpleFS API</name>
   <description>API module of SimpleFS.</description>
   <url>http://maven.apache.org</url>
 

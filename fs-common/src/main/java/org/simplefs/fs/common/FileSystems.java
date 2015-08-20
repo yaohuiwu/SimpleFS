@@ -1,8 +1,9 @@
-package org.simplefs.fs;
+package org.simplefs.fs.common;
 
-import org.simplefs.fs.cfg.Config;
-import org.simplefs.fs.cfg.FastDFSConfig;
-import org.simplefs.fs.cfg.LocalFSConfig;
+import org.simplefs.fs.SimpleFileSystem;
+import org.simplefs.fs.common.cfg.Config;
+import org.simplefs.fs.common.cfg.FastDFSConfig;
+import org.simplefs.fs.common.cfg.LocalFSConfig;
 
 import java.util.UUID;
 
@@ -43,7 +44,7 @@ public class FileSystems {
             return null;
         }
 
-        SimpleFileSystem simleFs = null;
+        SimpleFileSystem simleFs;
         try{
             simleFs =  (SimpleFileSystem)fileSystemClass.newInstance();
         }catch (Exception e){

@@ -9,10 +9,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>fs-local</artifactId>
+  <artifactId>fs-fdfs</artifactId>
   <packaging>jar</packaging>
 
-  <name>LocalFS Implementation</name>
+  <name>FastDFS Implementation</name>
   <description>API module of SimpleFS.</description>
   <url>http://maven.apache.org</url>
 
@@ -26,6 +26,23 @@
       <groupId>org.simplefs</groupId>
       <artifactId>fs-meta-redis</artifactId>
       <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <!--
+      get source code of fastdfs-java from:
+          https://github.com/yaohuiwu/fastdfs-client-java.git
+
+      build with:
+          mvn clean install
+    -->
+    <dependency>
+      <groupId>org.csource</groupId>
+      <artifactId>fastdfs-java</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-pool2</artifactId>
+      <version>2.0</version>
     </dependency>
 
   </dependencies>

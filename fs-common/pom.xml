@@ -9,25 +9,24 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>fs-local</artifactId>
+  <artifactId>fs-common</artifactId>
   <packaging>jar</packaging>
 
-  <name>LocalFS Implementation</name>
+  <name>SimpleFS Common</name>
   <description>API module of SimpleFS.</description>
   <url>http://maven.apache.org</url>
 
   <dependencies>
     <dependency>
       <groupId>org.simplefs</groupId>
-      <artifactId>fs-common</artifactId>
+      <artifactId>fs</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.simplefs</groupId>
-      <artifactId>fs-meta-redis</artifactId>
+      <artifactId>fs-meta</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
-
   </dependencies>
 
 </project>

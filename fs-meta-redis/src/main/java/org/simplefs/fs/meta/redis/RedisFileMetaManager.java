@@ -75,6 +75,8 @@ public class RedisFileMetaManager implements FileMetaManager{
                 throw new IllegalArgumentException("file id can't be null");
             }
 
+            LOG.debug("saving {}", fileMeta);
+
             FileMetaProtos.FileMeta.Builder b = FileMetaProtos.FileMeta.newBuilder();
             b.setFileId(fileMeta.getFileId())
                     .setFileSize(fileMeta.getFileSize())

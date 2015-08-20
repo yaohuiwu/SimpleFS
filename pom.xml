@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>simplefs</name>
+  <name>SimpleFS</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -16,9 +16,11 @@
 
   <modules>
     <module>fs</module>
+    <module>fs-common</module>
     <module>fs-meta</module>
     <module>fs-meta-redis</module>
     <module>fs-local</module>
+    <module>fs-fdfs</module>
   </modules>
 
   <dependencies>

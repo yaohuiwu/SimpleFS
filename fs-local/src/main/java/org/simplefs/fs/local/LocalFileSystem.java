@@ -1,12 +1,9 @@
 package org.simplefs.fs.local;
 
-import org.simplefs.fs.AbstractSimpleFileSystem;
-import org.simplefs.fs.FileInfo;
-import org.simplefs.fs.FileSystems;
-import org.simplefs.fs.cfg.Config;
+import org.simplefs.fs.common.AbstractSimpleFileSystem;
+import org.simplefs.fs.common.FileSystems;
+import org.simplefs.fs.common.cfg.Config;
 import org.simplefs.fs.meta.FileMeta;
-import org.simplefs.fs.meta.FileMetaManager;
-import org.simplefs.fs.meta.MetaManagers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,10 +20,8 @@ public class LocalFileSystem extends AbstractSimpleFileSystem {
     private static final Logger LOG = LoggerFactory.getLogger(LocalFileSystem.class);
 
     private String baseDir;
-    private FileMetaManager fileMetaManager;
 
     public LocalFileSystem() {
-        fileMetaManager = MetaManagers.getDefault();
     }
 
     public String getBaseDir() {
@@ -105,19 +100,5 @@ public class LocalFileSystem extends AbstractSimpleFileSystem {
         }
 
         return out.toByteArray();
-    }
-
-    public FileInfo getMeta(String fileId) {
-        if(fileId == null){
-            return null;
-        }
-        FileMeta meta = fileMetaManager.get(fileId);
-        if(meta != null){
-            return new FileInfo(meta.getFileId(),
-                    meta.getFileName(),
-                    meta.getFileSize(),
-                    meta.getCreateTime());
-        }
-        return null;
     }
 }

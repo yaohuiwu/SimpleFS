@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T06:03:57.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0ScYGF8nJLPXfK-BqE7e" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:00:20.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="thlifo99lOeBeG37X_aD" version="20.8.13" type="github" pages="2">
   <diagram name="BE架构" id="JglvXAm2kmOWLRLsfkI9">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
         <mxCell id="xKY7nRnzKIO3sX-Rf7oE-2" value="Web Browser" style="shape=mxgraph.cisco.computers_and_peripherals.web_browser;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="138" width="62" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="xKY7nRnzKIO3sX-Rf7oE-4" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="xKY7nRnzKIO3sX-Rf7oE-4" value="EC2" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="50" width="330" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xKY7nRnzKIO3sX-Rf7oE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xKY7nRnzKIO3sX-Rf7oE-5" target="xKY7nRnzKIO3sX-Rf7oE-7" edge="1">

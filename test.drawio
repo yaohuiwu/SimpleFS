@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:56:06.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Y-BnvMxf_lUaNF0ourLt" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-29T09:14:14.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UpaLIaGmuvBJHOvHJ7zA" version="20.8.13" type="github" pages="2">
   <diagram name="BE架构" id="JglvXAm2kmOWLRLsfkI9">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,11 +72,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKY7nRnzKIO3sX-Rf7oE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xKY7nRnzKIO3sX-Rf7oE-21" target="xKY7nRnzKIO3sX-Rf7oE-26" edge="1">
+        <mxCell id="xKY7nRnzKIO3sX-Rf7oE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL9VlU5i8VRqOt_jXrhX-1" target="xKY7nRnzKIO3sX-Rf7oE-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="370" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="520" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xKY7nRnzKIO3sX-Rf7oE-31" value="7.Download event.json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xKY7nRnzKIO3sX-Rf7oE-30" vertex="1" connectable="0">
@@ -95,6 +94,21 @@
         </mxCell>
         <mxCell id="xKY7nRnzKIO3sX-Rf7oE-26" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
           <mxGeometry x="30" y="340" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OL9VlU5i8VRqOt_jXrhX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL9VlU5i8VRqOt_jXrhX-1" target="xKY7nRnzKIO3sX-Rf7oE-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OL9VlU5i8VRqOt_jXrhX-3" value="8.Fetching contents" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL9VlU5i8VRqOt_jXrhX-2">
+          <mxGeometry x="-0.1727" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OL9VlU5i8VRqOt_jXrhX-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

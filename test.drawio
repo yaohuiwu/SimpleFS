@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T06:43:42.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bLQ8FO0XgD3EniD5rrXG" version="20.8.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:55:46.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6zw9DTdbgVXhAmkmIcXx" version="20.8.17" type="github" pages="4">
   <diagram name="BE架构" id="JglvXAm2kmOWLRLsfkI9">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8F8LBTNtZ45TlD0RBzwj-1" value="1.Download web pages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8F8LBTNtZ45TlD0RBzwj-0">
+        <mxCell id="8F8LBTNtZ45TlD0RBzwj-1" value="1.Load frontend web pages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8F8LBTNtZ45TlD0RBzwj-0">
           <mxGeometry x="-0.3784" relative="1" as="geometry">
             <mxPoint x="45" y="-4" as="offset" />
           </mxGeometry>

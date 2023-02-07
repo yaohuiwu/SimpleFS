@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T06:55:46.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6zw9DTdbgVXhAmkmIcXx" version="20.8.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:58:27.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mugpOqg_TaaBHgb5NGNK" version="20.8.17" type="github" pages="4">
   <diagram name="BE架构" id="JglvXAm2kmOWLRLsfkI9">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
         <mxCell id="EEYt1AejMVOvJIA45VuU-6" value="Web Browser Client" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
           <mxGeometry x="190" y="101.13" width="53.17" height="37.75" as="geometry" />
         </mxCell>
-        <mxCell id="EEYt1AejMVOvJIA45VuU-22" value="S3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="EEYt1AejMVOvJIA45VuU-22" value="S3&lt;br&gt;HorseRider/{QA, Staging, Live}/events.json" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="491.75" y="260" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>

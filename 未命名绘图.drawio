@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T02:59:33.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bEFDDwbb6R6BdFT2uG7h" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T02:59:41.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1CBi9MoxMHuXw9nlklOI" version="20.8.17" type="github">
   <diagram name="The logic of game client handling events" id="4cB9fw9HHLK_oVMArbm4">
     <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,9 +91,6 @@
             <mxPoint x="530" y="350" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ztmrqZ4C6liE_T6uKDKL-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="965" y="155" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

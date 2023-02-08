@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T10:01:05.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="z_8gVTEk0UosqYseXLHo" version="20.8.17" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-08T10:07:33.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GS8EH616yDatILCVsLr8" version="20.8.17" type="github" pages="5">
   <diagram name="The logic of game client handling events" id="4cB9fw9HHLK_oVMArbm4">
     <mxGraphModel dx="1416" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,14 +413,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bHFJQgdFE6XMPCXSoODn-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHFJQgdFE6XMPCXSoODn-2" target="bHFJQgdFE6XMPCXSoODn-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bHFJQgdFE6XMPCXSoODn-2" value="Game starts" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="185" y="70" width="70" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bHFJQgdFE6XMPCXSoODn-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHFJQgdFE6XMPCXSoODn-7" target="bHFJQgdFE6XMPCXSoODn-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHFJQgdFE6XMPCXSoODn-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHFJQgdFE6XMPCXSoODn-43" target="bHFJQgdFE6XMPCXSoODn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bHFJQgdFE6XMPCXSoODn-7" value="Download events.json from S3 based on the client stage(QA, Staging, Live)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="140" height="70" as="geometry" />
@@ -527,6 +526,9 @@
         </mxCell>
         <mxCell id="bHFJQgdFE6XMPCXSoODn-36" value="Use default events.json" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHFJQgdFE6XMPCXSoODn-43" value="Game starts" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

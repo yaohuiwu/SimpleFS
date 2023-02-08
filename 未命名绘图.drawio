@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T02:11:25.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="explsO64sQvJEBB6HiDk" version="20.8.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-08T02:13:13.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="l1tZe8bl1ROZSK0yBb00" version="20.8.17" type="github" pages="2">
   <diagram name="The logic of game client handling events" id="4cB9fw9HHLK_oVMArbm4">
     <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-1" target="HTSTB_ivEJxWu7Qqh1Oz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-15" value="1.Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-3">
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-15" value="Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-3">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-2" target="HTSTB_ivEJxWu7Qqh1Oz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-16" value="2.Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-5">
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-16" value="Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-5">
           <mxGeometry x="-0.0545" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -125,7 +125,7 @@
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-4" target="HTSTB_ivEJxWu7Qqh1Oz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-18" value="4.Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-7">
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-18" value="Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-7">
           <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -133,7 +133,7 @@
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-4" target="HTSTB_ivEJxWu7Qqh1Oz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-17" value="3.Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-12">
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-17" value="Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-12">
           <mxGeometry x="-0.1636" y="-3" relative="1" as="geometry">
             <mxPoint x="-14" as="offset" />
           </mxGeometry>

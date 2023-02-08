@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T01:44:59.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SSQIGdZ-2EWf8GUQVxOU" version="20.8.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-08T02:11:25.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="explsO64sQvJEBB6HiDk" version="20.8.17" type="github" pages="2">
   <diagram name="The logic of game client handling events" id="4cB9fw9HHLK_oVMArbm4">
     <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XG_jfDLibvokgeYjkzmq" name="Event Stages">
-    <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-1" value="Draft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-2" target="HTSTB_ivEJxWu7Qqh1Oz-4">
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-2" target="HTSTB_ivEJxWu7Qqh1Oz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-16" value="2.Manually move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-5">
@@ -149,6 +149,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-6" target="HTSTB_ivEJxWu7Qqh1Oz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="240" />
+              <mxPoint x="430" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-25" value="Reactivate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-22">
+          <mxGeometry x="-0.016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-6" value="Production" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,6 +170,14 @@
         </mxCell>
         <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-14" value="Automatically move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTSTB_ivEJxWu7Qqh1Oz-8" target="HTSTB_ivEJxWu7Qqh1Oz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTSTB_ivEJxWu7Qqh1Oz-24" value="Pause" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HTSTB_ivEJxWu7Qqh1Oz-23">
+          <mxGeometry y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

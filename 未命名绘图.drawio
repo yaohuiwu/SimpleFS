@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T02:42:42.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wAYvx2oUTQ59JNI5oQbX" version="20.8.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-09T07:41:37.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kaZM3p3wTTa13Klo4P1k" version="20.8.18" type="github" pages="5">
   <diagram name="The logic of game client handling events" id="4cB9fw9HHLK_oVMArbm4">
     <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -469,11 +469,11 @@
         <mxCell id="bHFJQgdFE6XMPCXSoODn-23" value="Start with events" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="249" y="785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bHFJQgdFE6XMPCXSoODn-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="mV-0XlsVqvesxag5mXGX-3" target="bHFJQgdFE6XMPCXSoODn-23" edge="1">
+        <mxCell id="bHFJQgdFE6XMPCXSoODn-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mV-0XlsVqvesxag5mXGX-3" target="mV-0XlsVqvesxag5mXGX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="509" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="514" y="800" />
+              <mxPoint x="514" y="605" />
             </Array>
             <mxPoint x="549" y="625" as="sourcePoint" />
           </mxGeometry>
@@ -493,11 +493,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bHFJQgdFE6XMPCXSoODn-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="bHFJQgdFE6XMPCXSoODn-36" target="bHFJQgdFE6XMPCXSoODn-23" edge="1">
+        <mxCell id="bHFJQgdFE6XMPCXSoODn-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bHFJQgdFE6XMPCXSoODn-36" target="mV-0XlsVqvesxag5mXGX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="815" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="719" y="830" />
+              <mxPoint x="719" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -507,21 +507,21 @@
         <mxCell id="bHFJQgdFE6XMPCXSoODn-43" value="Game starts" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="249" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mV-0XlsVqvesxag5mXGX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV-0XlsVqvesxag5mXGX-1" target="mV-0XlsVqvesxag5mXGX-4">
+        <mxCell id="mV-0XlsVqvesxag5mXGX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mV-0XlsVqvesxag5mXGX-1" target="mV-0XlsVqvesxag5mXGX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mV-0XlsVqvesxag5mXGX-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mV-0XlsVqvesxag5mXGX-5">
+        <mxCell id="mV-0XlsVqvesxag5mXGX-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mV-0XlsVqvesxag5mXGX-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1778" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mV-0XlsVqvesxag5mXGX-1" value="Check events" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mV-0XlsVqvesxag5mXGX-1" value="Check events" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="259" y="555" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mV-0XlsVqvesxag5mXGX-3" value="Check the cached events" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mV-0XlsVqvesxag5mXGX-3" value="Check the cached events" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="449" y="415" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mV-0XlsVqvesxag5mXGX-4" value="Start with no events" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="mV-0XlsVqvesxag5mXGX-4" value="Start with no events" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="49" y="575" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

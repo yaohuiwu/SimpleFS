@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T03:22:27.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zXFubtkY7UDOq__Yyjbi" version="20.8.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T03:28:47.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SkpGFPVVzf-86bMn0Npg" version="20.8.18" type="github" pages="2">
   <diagram name="Overview" id="Y7LxutFM4nY9Va_bLNKR">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="310" y="70" width="410" height="580" as="geometry" />
         </mxCell>
         <mxCell id="HSnjWEOH8dlstnr4QMce-2" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="60" height="60" as="geometry" />
+          <mxGeometry x="110" y="430" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HSnjWEOH8dlstnr4QMce-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HSnjWEOH8dlstnr4QMce-3" target="HSnjWEOH8dlstnr4QMce-4">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L6YW0qsagbsHSBA2NxPk-1" value="Leaderboard Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="L6YW0qsagbsHSBA2NxPk-1" value="Leaderboard Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="420" width="206" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L6YW0qsagbsHSBA2NxPk-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HSnjWEOH8dlstnr4QMce-2" target="L6YW0qsagbsHSBA2NxPk-1">
@@ -97,7 +97,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L6YW0qsagbsHSBA2NxPk-7" value="Realtime Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="L6YW0qsagbsHSBA2NxPk-7" value="Realtime Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="540" width="206" height="70" as="geometry" />
         </mxCell>
       </root>

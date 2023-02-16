@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T05:17:42.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3ffzuyhDVc3Hfhsz36uf" version="20.8.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-16T05:19:28.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dcu-tles-7E7ZqcFQ-NW" version="20.8.18" type="github" pages="2">
   <diagram name="Overview" id="Y7LxutFM4nY9Va_bLNKR">
     <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="L6YW0qsagbsHSBA2NxPk-19" value="Distribute rewards when a contest finishes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6YW0qsagbsHSBA2NxPk-18">
           <mxGeometry x="-0.1241" y="2" relative="1" as="geometry">
-            <mxPoint x="8" y="-29" as="offset" />
+            <mxPoint x="-82" y="91" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HSnjWEOH8dlstnr4QMce-10" value="Multiplayer/OOTD Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L6YW0qsagbsHSBA2NxPk-7" value="Realtime Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="586" width="206" height="70" as="geometry" />
+          <mxGeometry x="418" y="584" width="206" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L6YW0qsagbsHSBA2NxPk-1" value="Leaderboard Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="260" width="206" height="80" as="geometry" />

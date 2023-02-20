@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T02:09:00.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BgyluzBIJ7xt7U9YnSJf" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-20T02:28:06.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Yy79oikZH5YKP3OGxo6R" version="20.8.20" type="github" pages="6">
   <diagram name="Overview" id="Y7LxutFM4nY9Va_bLNKR">
     <mxGraphModel dx="1434" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,6 +297,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MaeWLboWPZ5vwAgUyluE" name="OOTD Match machnism">
+    <mxGraphModel dx="1434" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sfaD1IrCn7cVLsclgqqI-1" value="Pool 1&lt;br&gt;&lt;br&gt;Connected active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfaD1IrCn7cVLsclgqqI-2" value="Pool 2&lt;br&gt;&lt;br&gt;Disconnected active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfaD1IrCn7cVLsclgqqI-3" value="Pool 3&lt;br&gt;&lt;br&gt;Disconnected inactive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfaD1IrCn7cVLsclgqqI-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="40" as="sourcePoint" />
+            <mxPoint x="640" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sfaD1IrCn7cVLsclgqqI-5" value="Query order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sfaD1IrCn7cVLsclgqqI-4">
+          <mxGeometry x="-0.0776" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

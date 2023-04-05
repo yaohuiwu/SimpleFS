@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T05:42:57.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VV45LIrBWgD399K0kdB0" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-05T05:48:44.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OKtv82tkWZT6h1Zurzda" version="21.1.4" type="github" pages="2">
   <diagram name="简单方案" id="suSyverLm-YBrHtKf4Aj">
     <mxGraphModel dx="1434" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
         <mxCell id="YEo_694-A9MbqY2vxZPD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YEo_694-A9MbqY2vxZPD-3" source="YEo_694-A9MbqY2vxZPD-10" target="YEo_694-A9MbqY2vxZPD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YEo_694-A9MbqY2vxZPD-9" value="7.Associate Device 2 to the &lt;br&gt;subscription record of Device 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YEo_694-A9MbqY2vxZPD-8">
+        <mxCell id="YEo_694-A9MbqY2vxZPD-9" value="7. Call 5 and associate Device 2 &lt;br&gt;to the subscription record of &lt;br&gt;Device 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YEo_694-A9MbqY2vxZPD-8">
           <mxGeometry x="-0.2832" y="1" relative="1" as="geometry">
             <mxPoint x="20" y="12" as="offset" />
           </mxGeometry>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T05:26:26.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bMl7HqCqmILu6z2LmTvh" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T05:35:47.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pDjwEwMTeNi98hRKR60C" version="21.1.5" type="github" pages="2">
   <diagram name="简单方案" id="suSyverLm-YBrHtKf4Aj">
-    <mxGraphModel dx="1434" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             <mxPoint x="35" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-3" value="App A" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-3" value="Full Game" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
           <mxGeometry x="98.22" y="150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mKjcdqouhTTLhyp-S74l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="mKjcdqouhTTLhyp-S74l-4" target="mKjcdqouhTTLhyp-S74l-5" edge="1">
@@ -67,7 +67,7 @@
             <mxPoint x="7" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-4" value="App B" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-4" value="Lite Game" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
           <mxGeometry x="98.22" y="240" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mKjcdqouhTTLhyp-S74l-8" value="Device 2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="mKjcdqouhTTLhyp-S74l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mKjcdqouhTTLhyp-S74l-9" target="mKjcdqouhTTLhyp-S74l-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-29" value="5.Restore subscription using the same apple account &lt;br&gt;and get the bill" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mKjcdqouhTTLhyp-S74l-28" vertex="1" connectable="0">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-29" value="5.Restore subscription using the same apple/google account &lt;br&gt;and get the bill" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mKjcdqouhTTLhyp-S74l-28" vertex="1" connectable="0">
           <mxGeometry x="-0.3447" relative="1" as="geometry">
             <mxPoint x="46" y="-25" as="offset" />
           </mxGeometry>
@@ -94,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-9" value="App A" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-9" value="Full Game" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
           <mxGeometry x="99.22" y="522" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mKjcdqouhTTLhyp-S74l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mKjcdqouhTTLhyp-S74l-10" target="mKjcdqouhTTLhyp-S74l-5" edge="1">
@@ -105,7 +105,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-10" value="App B" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-10" value="Lite Game" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
           <mxGeometry x="99.22" y="612" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mKjcdqouhTTLhyp-S74l-12" value="Apple/Google" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
         <mxCell id="mKjcdqouhTTLhyp-S74l-13" value="Subscription Server" style="rounded=1;whiteSpace=wrap;html=1;" parent="mKjcdqouhTTLhyp-S74l-12" vertex="1">
           <mxGeometry x="50" y="47" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;uniqueId(originalTransactionId/purchaseToken),&lt;br&gt;deviceId(IDFV/GUID), &lt;br&gt;bundleId,&lt;br&gt;expireDate&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;uniqueId(auto generated by game server),&lt;br&gt;orderId(originalTransactionId/purchaseToken),&lt;br&gt;deviceId(IDFV/GUID), &lt;br&gt;bundleId,&lt;br&gt;expireDate&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="34" y="10" width="306" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mKjcdqouhTTLhyp-S74l-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="mKjcdqouhTTLhyp-S74l-19" edge="1">
@@ -123,7 +123,7 @@
             <mxPoint x="324" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G-6ERfJb_rOg69H08sGY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mKjcdqouhTTLhyp-S74l-12" target="mKjcdqouhTTLhyp-S74l-12">
+        <mxCell id="G-6ERfJb_rOg69H08sGY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mKjcdqouhTTLhyp-S74l-12" target="mKjcdqouhTTLhyp-S74l-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

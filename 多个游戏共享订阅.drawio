@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:04:45.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_6IUwoN4P1lox2_aeGgG" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:12:16.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wVcUiIl_PZ8hJ6oDS5ml" version="21.1.5" type="github" pages="2">
   <diagram name="简单方案" id="suSyverLm-YBrHtKf4Aj">
     <mxGraphModel dx="1434" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKjcdqouhTTLhyp-S74l-39" value="6.Send subscriptionInfo (for Device 2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mKjcdqouhTTLhyp-S74l-38" vertex="1" connectable="0">
+        <mxCell id="mKjcdqouhTTLhyp-S74l-39" value="6.Add device (for Device 2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mKjcdqouhTTLhyp-S74l-38" vertex="1" connectable="0">
           <mxGeometry x="-0.077" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lCFKgwckURQVzcdlNlof-2" value="9.Send subscriptionInfo(for Device2) &lt;br&gt;if the player uses a different apple/google account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lCFKgwckURQVzcdlNlof-1">
+        <mxCell id="lCFKgwckURQVzcdlNlof-2" value="9.Add device(for Device2) &lt;br&gt;if the player uses a different apple/google account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lCFKgwckURQVzcdlNlof-1">
           <mxGeometry x="-0.3622" y="1" relative="1" as="geometry">
             <mxPoint x="96" y="1" as="offset" />
           </mxGeometry>

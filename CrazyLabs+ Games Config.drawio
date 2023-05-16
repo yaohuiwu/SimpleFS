@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:44:43.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.1" etag="P1hLU8AIqgqjBvtpG8uv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:05:31.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="G4IARX7ito6r0AIEQ0bn" version="21.2.1" type="github">
   <diagram name="第 1 页" id="BbvM3w7qFwUASGTOfBqD">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kDjE033Y1rrzG740soXx-1" value="CrazyLabs+ Games&lt;br&gt;Google Sheets" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="107" width="132" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-2" value="App Script" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" vertex="1" parent="1">
+          <mxGeometry x="524" y="151.6" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-3" value="" style="endArrow=none;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="1" source="kDjE033Y1rrzG740soXx-1" target="kDjE033Y1rrzG740soXx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="300" as="sourcePoint" />
+            <mxPoint x="504" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-4" value="Bind" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kDjE033Y1rrzG740soXx-3">
+          <mxGeometry x="0.2222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.84;exitY=0.28;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kDjE033Y1rrzG740soXx-5" target="kDjE033Y1rrzG740soXx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-7" value="Edit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kDjE033Y1rrzG740soXx-6">
+          <mxGeometry x="0.1805" y="-2" relative="1" as="geometry">
+            <mxPoint x="-24" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kDjE033Y1rrzG740soXx-5" target="kDjE033Y1rrzG740soXx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-39" value="Click the custom menu:&lt;br&gt;&quot;Export JSON to S3&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kDjE033Y1rrzG740soXx-38">
+          <mxGeometry x="0.2295" y="-1" relative="1" as="geometry">
+            <mxPoint x="-20" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="kDjE033Y1rrzG740soXx-5" target="kDjE033Y1rrzG740soXx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-43" value="Configure the S3 credential, save path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kDjE033Y1rrzG740soXx-42">
+          <mxGeometry x="0.0173" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-5" value="Game Designer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="74" y="160" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-9" value="AWS S3" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.aws_s3;" vertex="1" parent="1">
+          <mxGeometry x="704" y="145.3" width="50" height="57.4" as="geometry" />
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="kDjE033Y1rrzG740soXx-2" target="kDjE033Y1rrzG740soXx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="279" as="sourcePoint" />
+            <mxPoint x="444" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDjE033Y1rrzG740soXx-41" value="Save the data &lt;br&gt;of all sheets to S3&lt;br&gt;as one JSON file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kDjE033Y1rrzG740soXx-40">
+          <mxGeometry x="-0.0067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

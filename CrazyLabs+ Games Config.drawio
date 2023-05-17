@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T06:50:15.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pqmoOkqDp7-Ae1MX1rHo" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T06:50:49.545Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="asP966FJF8j0Qu9A5cOU" version="21.3.2" type="github">
   <diagram name="第 1 页" id="BbvM3w7qFwUASGTOfBqD">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="IjvJ-7YI4CcyOR2IGrtc-19" value="Mobile Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="416" width="40.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="IjvJ-7YI4CcyOR2IGrtc-23" value="24 hoursWe may not need to do this if the expire time of the CloudFront cache is acceptable (24 hours)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="IjvJ-7YI4CcyOR2IGrtc-23" value="We may not need to do this if the expire time of the CloudFront cache is acceptable (24 hours)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IjvJ-7YI4CcyOR2IGrtc-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0;exitDx=220;exitDy=30;exitPerimeter=0;" edge="1" parent="1" source="IjvJ-7YI4CcyOR2IGrtc-23">

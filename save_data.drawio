@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:28:02.739Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lorRTXOVJAU3cawblNsh" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:34:08.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T14miL3YNh92n_B3Fv4M" version="21.3.8" type="github" pages="3">
   <diagram id="LclV318cCAkKvQurcQmc" name="System Architecture">
     <mxGraphModel dx="1434" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
         <mxCell id="avhBZaXZBKunm3MLwHhu-6" value="Cognito" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
           <mxGeometry x="22" y="30" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="avhBZaXZBKunm3MLwHhu-20" value="AuthRequest,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;ReadObjects&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;WriteObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;ListObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;DeleteObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;LinkUser functions etc.&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
-          <mxGeometry x="259" y="40" width="100" height="100" as="geometry" />
+        <mxCell id="avhBZaXZBKunm3MLwHhu-20" value="&lt;span style=&quot;&quot;&gt;AuthRequest&lt;br&gt;ReadObjects&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;WriteObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;ListObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;DeleteObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;LinkUser functions etc.&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
+          <mxGeometry x="240" y="60" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="avhBZaXZBKunm3MLwHhu-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="avhBZaXZBKunm3MLwHhu-2" source="avhBZaXZBKunm3MLwHhu-4" target="avhBZaXZBKunm3MLwHhu-20">
+        <mxCell id="avhBZaXZBKunm3MLwHhu-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="avhBZaXZBKunm3MLwHhu-2" source="avhBZaXZBKunm3MLwHhu-4" target="avhBZaXZBKunm3MLwHhu-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="260" as="sourcePoint" />
             <mxPoint x="140" y="210" as="targetPoint" />

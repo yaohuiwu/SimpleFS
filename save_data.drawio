@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T01:30:37.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9tnF58IrE3k8XmBvyKNL" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-13T01:31:12.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tc6c1FTI4OvyvRIkwN90" version="21.3.8" type="github" pages="3">
   <diagram id="LclV318cCAkKvQurcQmc" name="System Architecture">
     <mxGraphModel dx="1147" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,9 +49,6 @@
         </mxCell>
         <mxCell id="avhBZaXZBKunm3MLwHhu-35" value="&lt;b&gt;Lambda&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;ReadObjects&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;WriteObjects,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ListObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;DeleteObjects,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;LinkUser&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
           <mxGeometry x="200" y="239" width="76.5" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="avhBZaXZBKunm3MLwHhu-41" value="idToken" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.token;" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
-          <mxGeometry x="2" y="270" width="108" height="20" as="geometry" />
         </mxCell>
         <mxCell id="avhBZaXZBKunm3MLwHhu-42" value="idToken" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.token;" vertex="1" parent="avhBZaXZBKunm3MLwHhu-2">
           <mxGeometry x="130" y="160" width="20" height="20" as="geometry" />

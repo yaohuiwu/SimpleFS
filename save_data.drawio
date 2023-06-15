@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T03:02:30.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lr-ZIf-ZPX2_W6t7dDh9" version="21.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-15T03:04:21.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MYpOhMxXW5PCjxy47Ywe" version="21.3.8" type="github" pages="4">
   <diagram id="LclV318cCAkKvQurcQmc" name="System Architecture">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,88 +241,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="d4MP3yhYuahy6iO8lPpE" name="WriteObjects">
-    <mxGraphModel dx="1434" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-1" target="LZcnNzvI7tWu5HHSiLTY-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-1" value="Parse request body" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-2" target="LZcnNzvI7tWu5HHSiLTY-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-2" value="Prepare the parameters of TransactionWriteItems action" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-4" target="LZcnNzvI7tWu5HHSiLTY-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-4" value="Generate one or more&amp;nbsp;UpdateItem operations" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-6" target="LZcnNzvI7tWu5HHSiLTY-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-6" value="Use condition expression to check the write permission" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-8" value="&lt;font face=&quot;Courier New&quot;&gt;attribute_not_exists (WritePermission) or WritePermission = 1&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-6" target="LZcnNzvI7tWu5HHSiLTY-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="370" as="sourcePoint" />
-            <mxPoint x="400" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-10" target="LZcnNzvI7tWu5HHSiLTY-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-10" value="Execute the TransactionWriteItems action" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-12" target="LZcnNzvI7tWu5HHSiLTY-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-16" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LZcnNzvI7tWu5HHSiLTY-15">
-          <mxGeometry x="-0.72" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-18" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-12" target="LZcnNzvI7tWu5HHSiLTY-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-12" value="Success ？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="720" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-14" target="LZcnNzvI7tWu5HHSiLTY-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-14" value="return code 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LZcnNzvI7tWu5HHSiLTY-17" target="LZcnNzvI7tWu5HHSiLTY-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="870" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="230" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-17" value="return code 40000" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LZcnNzvI7tWu5HHSiLTY-19" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="960" width="100" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="ReadObjects" id="__v2iNLpHSTWLNYw9GKc">
+  <diagram name="WriteObjects" id="__v2iNLpHSTWLNYw9GKc">
     <mxGraphModel dx="1434" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="880-TiesmJB0NDzonNDc-0" />

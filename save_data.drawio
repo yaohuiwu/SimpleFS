@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T08:25:12.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tuy-CvKB3D-mkl9xW1F8" version="21.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-21T08:26:00.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9tH_jRD2ykCMudnfSnh8" version="21.4.0" type="github" pages="8">
   <diagram id="LclV318cCAkKvQurcQmc" name="System Architecture">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,14 +626,6 @@
         <mxCell id="3OQKha6sCyP1Jtk1UX_B-20" value="PartitionKey = LINK#$ExternalUserId&lt;br&gt;SortKey = USER&lt;br&gt;InternalUserId = UserId" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="KTXCLwmaHRZvLO4LJz4O-1" vertex="1">
           <mxGeometry x="280" y="260" width="200" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="6A2st4q93TruN6Qt-MAb" name="Client Auth Flow">
-    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>

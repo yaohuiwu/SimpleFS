@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:51:35.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yMDkO3mJXBX1ETixlMag" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:52:15.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AIThDtTKVyBCIW7RtNmW" version="21.6.5" type="github" pages="3">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,9 +91,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XdYTRL2mxj0HCFypTFus-31" value="4.GetMetadata&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XdYTRL2mxj0HCFypTFus-27">
+        <mxCell id="XdYTRL2mxj0HCFypTFus-31" value="4.Ge leaderboard records&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XdYTRL2mxj0HCFypTFus-27">
           <mxGeometry x="0.1204" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XdYTRL2mxj0HCFypTFus-17" value="Lambda" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">

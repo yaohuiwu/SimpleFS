@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:17:07.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TtSY7If83uYqME2S35gg" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:51:35.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yMDkO3mJXBX1ETixlMag" version="21.6.5" type="github" pages="3">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,10 +99,10 @@
         <mxCell id="XdYTRL2mxj0HCFypTFus-17" value="Lambda" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">
           <mxGeometry x="190" y="120" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="XdYTRL2mxj0HCFypTFus-18" value="DynamoDB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">
+        <mxCell id="XdYTRL2mxj0HCFypTFus-18" value="DynamoDB&lt;br&gt;&lt;br&gt;Store all leaderboard records" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">
           <mxGeometry x="356" y="220" width="72" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="XdYTRL2mxj0HCFypTFus-19" value="ElasticCache for Redis" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">
+        <mxCell id="XdYTRL2mxj0HCFypTFus-19" value="ElasticCache for Redis&lt;br&gt;&lt;br&gt;Provide ranks" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elasticache_for_redis;" vertex="1" parent="XdYTRL2mxj0HCFypTFus-1">
           <mxGeometry x="360" y="70" width="78" height="69" as="geometry" />
         </mxCell>
         <mxCell id="XdYTRL2mxj0HCFypTFus-21" value="Leaderboard SDK" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">

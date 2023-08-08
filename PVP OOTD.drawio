@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T01:54:05.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C1No99HCrG_R9zYFkLQS" version="21.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-08T02:06:48.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Cpn0e6MbhwJ0-jnyCfoG" version="21.6.6" type="github" pages="4">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
           <mxGeometry y="50" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="jsPrpI_O9WZwSgl6cPqi-3" value="PVPResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="320" width="160" height="180" as="geometry" />
+          <mxGeometry x="160" y="320" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jsPrpI_O9WZwSgl6cPqi-4" value="+BattleId&lt;br&gt;+ChallengeId&lt;br&gt;+WinnerId&lt;br&gt;+LoserId&lt;br&gt;+WinnerScore&lt;br&gt;+LoserScore&lt;br&gt;+Extra&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-3" vertex="1">
-          <mxGeometry y="50" width="160" height="130" as="geometry" />
+        <mxCell id="jsPrpI_O9WZwSgl6cPqi-4" value="+BattleId&lt;br&gt;+TaskId&lt;br&gt;+ChallengeId&lt;br&gt;+WinnerId&lt;br&gt;+LoserId&lt;br&gt;+WinnerScore&lt;br&gt;+LoserScore&lt;br&gt;+Extra&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-3" vertex="1">
+          <mxGeometry y="50" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WyVsY10MQ5rmwuFhoHbH-1" value="Task" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="160" height="120" as="geometry" />

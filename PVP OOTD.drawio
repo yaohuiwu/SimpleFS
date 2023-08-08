@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T05:17:33.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qquKs0slq_nCuupYOKeC" version="21.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-08T05:26:01.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6CXapHRgCoLO2sUNMjfs" version="21.6.6" type="github" pages="4">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="jsPrpI_O9WZwSgl6cPqi-3" value="PVPResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="295" width="160" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="jsPrpI_O9WZwSgl6cPqi-4" value="+&lt;u&gt;BattleId&lt;/u&gt;&lt;br&gt;+ChallengeId&lt;br&gt;+Winners&lt;br&gt;+Losers&lt;br&gt;+BattleInfo&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-3" vertex="1">
+        <mxCell id="jsPrpI_O9WZwSgl6cPqi-4" value="+&lt;u&gt;BattleId&lt;/u&gt;&lt;br&gt;+ChallengeId&lt;br&gt;+WinnerId&lt;br&gt;+LoserId&lt;br&gt;+BattleInfo&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-3" vertex="1">
           <mxGeometry y="50" width="160" height="105" as="geometry" />
         </mxCell>
         <mxCell id="WyVsY10MQ5rmwuFhoHbH-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="JRfJdb27c1tYHtVessSR-4" target="jsPrpI_O9WZwSgl6cPqi-2" edge="1">

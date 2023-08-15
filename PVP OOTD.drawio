@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T06:24:21.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EvtCBVT1T2OqXZYQ50ga" version="21.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-15T06:40:11.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eiqc_3fGaClvcDanRe6u" version="21.6.6" type="github" pages="6">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="jsPrpI_O9WZwSgl6cPqi-1" value="TaskResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jsPrpI_O9WZwSgl6cPqi-2" value="+&lt;u&gt;TaskId&lt;/u&gt;&lt;br&gt;+ChallengeId&lt;br&gt;+UserId&lt;br&gt;+TaskInfo&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-1" vertex="1">
+        <mxCell id="jsPrpI_O9WZwSgl6cPqi-2" value="+&lt;u&gt;TaskId&lt;/u&gt;&lt;br&gt;+ChallengeId&lt;br&gt;+UserId&lt;br&gt;+TaskScore&lt;br&gt;+TaskInfo&lt;br&gt;+CreateAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="jsPrpI_O9WZwSgl6cPqi-1" vertex="1">
           <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jsPrpI_O9WZwSgl6cPqi-3" value="PVPResult/BattleResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">

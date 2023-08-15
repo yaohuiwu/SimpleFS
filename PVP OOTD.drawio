@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T06:40:11.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eiqc_3fGaClvcDanRe6u" version="21.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-15T08:40:03.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Uxoj7C_Rdz8vQOPnLG7P" version="21.6.6" type="github" pages="7">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,6 +373,29 @@
         </mxCell>
         <mxCell id="TCgt48JFfZpcyxgghdm0-16" value="Execute UpdateItem action" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="TCgt48JFfZpcyxgghdm0-1">
           <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AcMw4fSw0eSmG7YZUYil" name="Get Opponents">
+    <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TNRSWp99YEmKbb-_i6Py-1" target="TNRSWp99YEmKbb-_i6Py-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-1" value="Got a GetOpponent request&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TNRSWp99YEmKbb-_i6Py-2" target="TNRSWp99YEmKbb-_i6Py-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-2" value="Create a Query action on the ScoreIndex" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-6" value="Use CHALL#&lt;br&gt;ChallengeId as the partition key&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

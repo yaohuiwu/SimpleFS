@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T02:09:01.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I4-d1gQWhMpnCISyVrOn" version="21.6.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-16T02:26:07.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PrIgahSim3ifjuUlqjzF" version="21.6.8" type="github" pages="7">
   <diagram name="ER Diagram" id="ZLI-xnwd5I3-F7gUhsCu">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,20 +391,20 @@
         <mxCell id="TNRSWp99YEmKbb-_i6Py-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TNRSWp99YEmKbb-_i6Py-2" target="TNRSWp99YEmKbb-_i6Py-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TNRSWp99YEmKbb-_i6Py-2" value="Create a Query action on the ScoreIndex" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-2" value="Create a query action on the ScoreIndex" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="143" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNRSWp99YEmKbb-_i6Py-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TNRSWp99YEmKbb-_i6Py-6" target="TNRSWp99YEmKbb-_i6Py-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TNRSWp99YEmKbb-_i6Py-6" value="Partition key: CHALL#ChallengeId&amp;nbsp;&lt;br&gt;&lt;br&gt;Key condition: Score between RangeStart and RangeEnd&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="310" y="300" width="180" height="80" as="geometry" />
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-6" value="Partition key: CHALL#${ChallengeId}&amp;nbsp;&lt;br&gt;&lt;br&gt;Key condition: Score between ${RangeStart} and ${RangeEnd}&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="263" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TNRSWp99YEmKbb-_i6Py-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TNRSWp99YEmKbb-_i6Py-8" target="TNRSWp99YEmKbb-_i6Py-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TNRSWp99YEmKbb-_i6Py-8" value="Execute the query action" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="403" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TNRSWp99YEmKbb-_i6Py-10" target="QDWOXv9ZFbFGNbBJtLDX-4">
           <mxGeometry relative="1" as="geometry" />
@@ -412,26 +412,55 @@
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TNRSWp99YEmKbb-_i6Py-10" target="QDWOXv9ZFbFGNbBJtLDX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TNRSWp99YEmKbb-_i6Py-10" value="Is a successful result?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="570" width="80" height="80" as="geometry" />
+        <mxCell id="TNRSWp99YEmKbb-_i6Py-10" value="success?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="533" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-1" target="QDWOXv9ZFbFGNbBJtLDX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-1" value="Return code=0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-1" value="randomly select a set of users from all Items as opponents." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="943" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-4" target="QDWOXv9ZFbFGNbBJtLDX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-4" value="return code = 50000" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDWOXv9ZFbFGNbBJtLDX-6" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="960" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="1063" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-9" target="QDWOXv9ZFbFGNbBJtLDX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-9" value="Get all items from the result" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="653" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-12" target="QDWOXv9ZFbFGNbBJtLDX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-12" target="QDWOXv9ZFbFGNbBJtLDX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QDWOXv9ZFbFGNbBJtLDX-16">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-12" target="QDWOXv9ZFbFGNbBJtLDX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-12" value="Is there enough users" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="780" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDWOXv9ZFbFGNbBJtLDX-15" target="QDWOXv9ZFbFGNbBJtLDX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-15" value="return code 40000" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="793" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDWOXv9ZFbFGNbBJtLDX-20" value="Enough: expected 3 opponents got at least 3 items" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="540" y="585" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

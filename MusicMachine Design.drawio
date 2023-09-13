@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T02:16:29.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="BkiqxHCFeAyZwdbJdyke" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T02:29:27.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Bk0NTx3aJ6svIhjH7trD" version="21.6.8" type="github">
   <diagram name="第 1 页" id="KAcV6QaegKqWOvZqdOD0">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-5" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="160" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-1" value="S3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="640.75" y="120" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-4" value="Postgres" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-6" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-7" value="Kaggle - Lo-Fi Hip Hop" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="59" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKwZtGsvDxtWSczT_U5-8" value="cprato" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
+          <mxGeometry x="80" y="211" width="59" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

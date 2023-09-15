@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T08:57:26.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rij3FgIq2rjpF7uar1sZ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T08:56:58.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JKu1gU8-TIY4h8ON24Ei" version="21.7.4" type="github" pages="2">
   <diagram name="第 1 页" id="KAcV6QaegKqWOvZqdOD0">
     <mxGraphModel dx="2261" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iimmU4DLcN_E9HQ8q81G-2" value="Music midfi websites" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="iimmU4DLcN_E9HQ8q81G-2" value="Music midfi websites" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-70.25" y="92.25" width="199.5" height="410.75" as="geometry" />
         </mxCell>
         <mxCell id="ZnKwZtGsvDxtWSczT_U5-38" value="Music Machine Web Crawler" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -86,8 +86,71 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iimmU4DLcN_E9HQ8q81G-1" value="SQL Database&lt;br&gt;&lt;br&gt;&lt;i&gt;DataSources&lt;br&gt;Genres&lt;br&gt;SubGenres&lt;br&gt;Artists&lt;br&gt;Midi Files&lt;/i&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+        <mxCell id="iimmU4DLcN_E9HQ8q81G-1" value="SQL Database&lt;br&gt;&lt;br&gt;&lt;i&gt;DataSources&lt;br&gt;Genres&lt;br&gt;SubGenres&lt;br&gt;Artists&lt;br&gt;Midi Files&lt;/i&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" parent="1" vertex="1">
           <mxGeometry x="942.9699999999999" y="310" width="96.07" height="71.1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Xs5dcUDygRBJYus8ugkP" name="How to get cookies">
+    <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GA1dH18mJL6OPkvV0rf-1" target="1GA1dH18mJL6OPkvV0rf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-9" value="Log in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GA1dH18mJL6OPkvV0rf-7">
+          <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-1" value="playwright for python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GA1dH18mJL6OPkvV0rf-2" target="1GA1dH18mJL6OPkvV0rf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-5" value="Use" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GA1dH18mJL6OPkvV0rf-4">
+          <mxGeometry x="-0.1325" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GA1dH18mJL6OPkvV0rf-2" target="1GA1dH18mJL6OPkvV0rf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-14" value="1.Visit web pages&lt;br&gt;2.Download midi files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GA1dH18mJL6OPkvV0rf-13">
+          <mxGeometry x="-0.2297" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-2" value="XxxSpider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GA1dH18mJL6OPkvV0rf-3" target="1GA1dH18mJL6OPkvV0rf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-12" value="load" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GA1dH18mJL6OPkvV0rf-11">
+          <mxGeometry y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-3" value="state.json" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GA1dH18mJL6OPkvV0rf-6" target="1GA1dH18mJL6OPkvV0rf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-10" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GA1dH18mJL6OPkvV0rf-8">
+          <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-6" value="Music website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GA1dH18mJL6OPkvV0rf-17" value="Cookie" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

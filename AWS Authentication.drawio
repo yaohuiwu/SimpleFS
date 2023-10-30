@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T05:25:16.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OGepwbP1bvkNxB2BKfv_" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T06:02:20.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0KiHJvjXxDg20fiOE1cc" version="22.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="F1gL7VKnIladaWpGBcvO-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F1gL7VKnIladaWpGBcvO-16">
           <mxGeometry x="50" y="540" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F1gL7VKnIladaWpGBcvO-34" value="3.1.1 Invoke Define, Create&lt;br data-darkreader-inline-border=&quot;&quot; style=&quot;border-color: var(--darkreader-border--border-color); --darkreader-inline-border: var(--darkreader-border--darkreader-border--border-color);&quot;&gt;&amp;nbsp;lambda triggers" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="F1gL7VKnIladaWpGBcvO-33" parent="1" source="F1gL7VKnIladaWpGBcvO-4">
+        <mxCell id="F1gL7VKnIladaWpGBcvO-34" value="3.1.1 Invoke Define, Create&lt;br data-darkreader-inline-border=&quot;&quot; style=&quot;border-color: var(--darkreader-border--border-color); --darkreader-inline-border: var(--darkreader-border--darkreader-border--border-color);&quot;&gt;auth challenge lambda triggers" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="F1gL7VKnIladaWpGBcvO-33" parent="1" source="F1gL7VKnIladaWpGBcvO-4">
           <mxGeometry x="-0.0025" relative="1" as="geometry">
             <mxPoint x="657" y="415" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -120,7 +120,7 @@
             <mxPoint x="710" y="615" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1gL7VKnIladaWpGBcvO-37" value="4.1.1 Invoke Veify, Define lambda triggers" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="F1gL7VKnIladaWpGBcvO-36" parent="1" source="F1gL7VKnIladaWpGBcvO-4">
+        <mxCell id="F1gL7VKnIladaWpGBcvO-37" value="4.1.1 Invoke Veify, Define auth challenge &lt;br&gt;lambda triggers" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="F1gL7VKnIladaWpGBcvO-36" parent="1" source="F1gL7VKnIladaWpGBcvO-4">
           <mxGeometry x="-0.0025" relative="1" as="geometry">
             <mxPoint x="657" y="545" as="sourcePoint" />
             <mxPoint as="offset" />

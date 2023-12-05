@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T03:07:35.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="96x5oZl_KlqHxqoQfy0n" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-05T03:09:58.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pTORJwakJRzMAB_Fvj64" version="22.1.5" type="github" pages="2">
   <diagram name="中文" id="oIWaoRSfvmgnu0RulYwi">
     <mxGraphModel dx="1434" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,46 +60,46 @@
         <mxCell id="pIiXjqmPte5OWRPmbnVA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-2" target="pIiXjqmPte5OWRPmbnVA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-2" value="入驻开放平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-2" value="Settled in the open platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-4" target="pIiXjqmPte5OWRPmbnVA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-4" value="初审提案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-4" value="First review proposal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-6" target="pIiXjqmPte5OWRPmbnVA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-6" value="复审提案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-6" value="Review proposal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-8" target="pIiXjqmPte5OWRPmbnVA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-8" value="开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-8" value="Develop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-10" target="pIiXjqmPte5OWRPmbnVA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-10" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-10" value="Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-12" target="pIiXjqmPte5OWRPmbnVA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-12" value="上线评审文档提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-12" value="Online review document submission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIiXjqmPte5OWRPmbnVA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIiXjqmPte5OWRPmbnVA-14" target="pIiXjqmPte5OWRPmbnVA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-14" value="版本提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-14" value="Version submission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pIiXjqmPte5OWRPmbnVA-15" value="发布上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIiXjqmPte5OWRPmbnVA-15" value="Publish online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

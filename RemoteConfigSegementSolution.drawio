@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T08:22:18.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ni8hb0xcDH_czWgh7q5w" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T08:34:05.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b4l8mXxBF9n3xKlECmAq" version="22.1.7" type="github">
   <diagram name="第 1 页" id="tp897vbsZfjUVLFMzlsD">
     <mxGraphModel dx="1434" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,9 +13,9 @@
             <mxPoint x="665.04" y="209.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-9" value="1)Create Parameters/Conditions;&lt;br&gt;2)Publish changes;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PVsN3WA9Rpf7EvWIVzJp-8">
+        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-9" value="2. Define segment A,B using conditions;;&lt;br&gt;3.Create a parameter for feature X and&lt;br&gt;specify the parameter value for segment A, B;&lt;br&gt;4.Publish changes;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PVsN3WA9Rpf7EvWIVzJp-8">
           <mxGeometry x="-0.0852" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PVsN3WA9Rpf7EvWIVzJp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVsN3WA9Rpf7EvWIVzJp-10" target="PVsN3WA9Rpf7EvWIVzJp-19">
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-17" value="Fetch remote config from server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PVsN3WA9Rpf7EvWIVzJp-15">
+        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-17" value="4.Fetch remote config from server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PVsN3WA9Rpf7EvWIVzJp-15">
           <mxGeometry x="-0.3023" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="PVsN3WA9Rpf7EvWIVzJp-19" value="Firebase Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="606" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-20" value="1.Include json config files for all segments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133.5" y="410" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PVsN3WA9Rpf7EvWIVzJp-21" value="4.Decide to use which&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

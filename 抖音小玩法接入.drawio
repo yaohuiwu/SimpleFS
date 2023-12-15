@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T07:31:38.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6qbPWwaygWLcdQiCmJtQ" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T08:06:26.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xA8qZKslWUo_WnVAt6gt" version="22.1.9" type="github">
   <diagram name="第 1 页" id="Y4wQD-pbCirq9T_VrnDq">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,9 +134,9 @@
         <mxCell id="o2AHgQSNgwUj-9A4sk8h-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2AHgQSNgwUj-9A4sk8h-11" target="o2AHgQSNgwUj-9A4sk8h-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o2AHgQSNgwUj-9A4sk8h-24" value="11.1.Send plarform open data(e.g. &lt;font color=&quot;#ff3333&quot;&gt;gifts&lt;/font&gt;, comments, &lt;font color=&quot;#ff3333&quot;&gt;likes&lt;/font&gt;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2AHgQSNgwUj-9A4sk8h-23">
+        <mxCell id="o2AHgQSNgwUj-9A4sk8h-24" value="11.1.Send plarform open data(e.g. &lt;font style=&quot;--darkreader-inline-color: #ea7262;&quot; data-darkreader-inline-color=&quot;&quot; color=&quot;#ff3333&quot;&gt;gifts&lt;/font&gt;, comments, &lt;font style=&quot;--darkreader-inline-color: #ea7262;&quot; data-darkreader-inline-color=&quot;&quot; color=&quot;#ff3333&quot;&gt;likes&lt;/font&gt;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2AHgQSNgwUj-9A4sk8h-23">
           <mxGeometry x="-0.2201" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2AHgQSNgwUj-9A4sk8h-11" value="Magic box “platform gameplay”" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">

@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:14:54.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="9YSmxvT5PMOA_7JGfoeJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T06:37:00.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JRZMYgCi-aY8UYvNoNXb" version="22.1.11" type="github">
   <diagram name="第 1 页" id="mVjApSu2oJtKS8wP66Qf">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-5" value="NAT1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-1" value="STUN Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-2" value="L" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="127.19999999999999" y="300" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-3" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110.00000000000004" y="210" width="80" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-4" value="NAT" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.nat;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="Q1Mw04lkO8LBgwO_6O0u-3">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-10" value="NAT2" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-11" value="R" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="647.2" y="300" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-12" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="80" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1Mw04lkO8LBgwO_6O0u-13" value="NAT" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.nat;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="Q1Mw04lkO8LBgwO_6O0u-12">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

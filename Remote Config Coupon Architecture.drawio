@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T03:26:01.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iFOramsjdIKn9HH-30Gk" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T03:26:11.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JsWZb6-NzTeTJMkqLU8W" version="22.1.12" type="github" pages="2">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-10" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="1" vertex="1">
           <mxGeometry x="399.99999999999994" y="515.63" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Gbm58ajWpvd4oVIO_cRi-17" value="Game operations staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Gbm58ajWpvd4oVIO_cRi-17" target="Gbm58ajWpvd4oVIO_cRi-8" edge="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:02:01.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ggTDxeKlTI-VIBZ90gKu" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:12:15.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RYCcf7rqLnvzVI8e9fhm" version="22.1.12" type="github" pages="2">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,13 +184,13 @@
         <mxCell id="WPMVom1naa6KFxnw--u--9" value="Group Key" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="220" y="431.11" width="40.55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPMVom1naa6KFxnw--u--13" value="7.Give the coupon to the player if coupon data is decrypted successfully with the group key." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
+        <mxCell id="WPMVom1naa6KFxnw--u--13" value="8.Give the coupon to the player if coupon data is decrypted successfully with the group key." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RJ4E3sHT8-zivPVohlOr-1" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="125" y="280" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AcrbWYL2tMcrpe3nX4Kl-0" value="6. Get the coupon data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
+        <mxCell id="AcrbWYL2tMcrpe3nX4Kl-0" value="7. Get the coupon data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="320.01" y="370" width="140" height="30" as="geometry" />
         </mxCell>
       </root>

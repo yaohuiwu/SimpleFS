@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T05:41:03.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5w6kLiWdEOBeKrEYjTfo" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:02:01.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ggTDxeKlTI-VIBZ90gKu" version="22.1.12" type="github" pages="2">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,8 +116,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPMVom1naa6KFxnw--u--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hGi8-e6ZE8lsWLGu0JSh-1" source="hGi8-e6ZE8lsWLGu0JSh-6" target="WPMVom1naa6KFxnw--u--4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WPMVom1naa6KFxnw--u--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="hGi8-e6ZE8lsWLGu0JSh-1" source="hGi8-e6ZE8lsWLGu0JSh-6" target="RJ4E3sHT8-zivPVohlOr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WPMVom1naa6KFxnw--u--11" value="5. Get the group key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WPMVom1naa6KFxnw--u--10">
           <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
@@ -155,12 +157,14 @@
         <mxCell id="hGi8-e6ZE8lsWLGu0JSh-17" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="399.99999999999994" y="515.63" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WPMVom1naa6KFxnw--u--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hGi8-e6ZE8lsWLGu0JSh-1" source="hGi8-e6ZE8lsWLGu0JSh-18" target="WPMVom1naa6KFxnw--u--4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WPMVom1naa6KFxnw--u--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hGi8-e6ZE8lsWLGu0JSh-1" source="hGi8-e6ZE8lsWLGu0JSh-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WPMVom1naa6KFxnw--u--7" value="4. Send the group key to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WPMVom1naa6KFxnw--u--6">
           <mxGeometry x="0.2353" y="3" relative="1" as="geometry">
-            <mxPoint x="27" y="15" as="offset" />
+            <mxPoint x="46" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hGi8-e6ZE8lsWLGu0JSh-18" value="Game operations staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
@@ -174,17 +178,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPMVom1naa6KFxnw--u--4" value="Social media&lt;br&gt;like tweeter" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-networks-7/128/Social_networks_Twitter-128.png" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
-          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="WPMVom1naa6KFxnw--u--5" value="Group Key" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="290" y="116" width="40.55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WPMVom1naa6KFxnw--u--9" value="Group Key" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
           <mxGeometry x="220" y="431.11" width="40.55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPMVom1naa6KFxnw--u--13" value="7.Decrypt all the secretCpnID and give the gifts to the player" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
-          <mxGeometry x="320.01" y="420" width="200" height="30" as="geometry" />
+        <mxCell id="WPMVom1naa6KFxnw--u--13" value="7.Give the coupon to the player if coupon data is decrypted successfully with the group key." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
+          <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ4E3sHT8-zivPVohlOr-1" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
+          <mxGeometry x="125" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AcrbWYL2tMcrpe3nX4Kl-0" value="6. Get the coupon data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hGi8-e6ZE8lsWLGu0JSh-1">
+          <mxGeometry x="320.01" y="370" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T03:26:11.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JsWZb6-NzTeTJMkqLU8W" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T05:16:11.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="A6F2v_3H4nwBF-In5_Ht" version="22.1.12" type="github" pages="2">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gbm58ajWpvd4oVIO_cRi-1" target="Gbm58ajWpvd4oVIO_cRi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-12" value="2. Copy PlayerCode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-11" vertex="1" connectable="0">
+        <mxCell id="Gbm58ajWpvd4oVIO_cRi-12" value="1. Open settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-11" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -15,7 +15,7 @@
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Gbm58ajWpvd4oVIO_cRi-1" target="Gbm58ajWpvd4oVIO_cRi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-14" value="3 Send an email with the PlayerCode and &lt;br&gt;content which describes what is wrong." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-13" vertex="1" connectable="0">
+        <mxCell id="Gbm58ajWpvd4oVIO_cRi-14" value="3 Send an email with the player code and &lt;br&gt;content which describes what is wrong." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-13" vertex="1" connectable="0">
           <mxGeometry x="-0.212" y="-4" relative="1" as="geometry">
             <mxPoint x="41" y="-13" as="offset" />
           </mxGeometry>
@@ -57,7 +57,7 @@
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Gbm58ajWpvd4oVIO_cRi-8" target="Gbm58ajWpvd4oVIO_cRi-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-22" value="6.Export the coupon to &lt;br&gt;remote config parameter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-20" vertex="1" connectable="0">
+        <mxCell id="Gbm58ajWpvd4oVIO_cRi-22" value="6.Export the coupon data to &lt;br&gt;the remote config parameter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-20" vertex="1" connectable="0">
           <mxGeometry x="0.0309" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -74,16 +74,31 @@
         <mxCell id="Gbm58ajWpvd4oVIO_cRi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Gbm58ajWpvd4oVIO_cRi-17" target="Gbm58ajWpvd4oVIO_cRi-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-19" value="5.Create a Unique Coupon &lt;br&gt;for the player" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-18" vertex="1" connectable="0">
+        <mxCell id="Gbm58ajWpvd4oVIO_cRi-19" value="5.Create a Unique Coupon &lt;br&gt;with the player code &lt;br&gt;for the player" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gbm58ajWpvd4oVIO_cRi-18" vertex="1" connectable="0">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-25" value="8.Get the coupon parameter and decrypt all secretCpnID field. If decrypt successfully then give corresponding gift to the player" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="620" width="249.99" height="30" as="geometry" />
+        <mxCell id="OwoIRESWi-Qvhh6WPq8I-1" value="2.Generate a play code (UserId + SecretKey) and save the secret key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbm58ajWpvd4oVIO_cRi-26" value="1. Player encounters a problem&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;when playing the game.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="610.14" width="190" height="30" as="geometry" />
+        <mxCell id="OwoIRESWi-Qvhh6WPq8I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gbm58ajWpvd4oVIO_cRi-10" target="Gbm58ajWpvd4oVIO_cRi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwoIRESWi-Qvhh6WPq8I-3" value="3. Copy the play code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OwoIRESWi-Qvhh6WPq8I-2">
+          <mxGeometry x="0.3811" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwoIRESWi-Qvhh6WPq8I-4" value="8. Give the coupon to the player if coupon data is decrypted successfully with secret key." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="401.11" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwoIRESWi-Qvhh6WPq8I-6" value="7. Get the coupon data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

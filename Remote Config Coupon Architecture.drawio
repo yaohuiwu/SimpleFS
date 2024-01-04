@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:30:50.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ebrYlWe7v8gUJnlXmZFR" version="22.1.15" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:28:35.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1Mzw5ZQWHiV-7u6D_4Zm" version="22.1.16" type="github" pages="5">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,107 @@
           <mxGeometry x="345" y="401.11" width="187.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwoIRESWi-Qvhh6WPq8I-6" value="9. Get the coupon data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Stage1-UniqueCoupon" id="l1g1iXKQVbgRbKnBRney">
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="S44jFDir6_swcwWM0D-N-0" />
+        <mxCell id="S44jFDir6_swcwWM0D-N-1" parent="S44jFDir6_swcwWM0D-N-0" />
+        <mxCell id="S44jFDir6_swcwWM0D-N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-6" target="S44jFDir6_swcwWM0D-N-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-3" value="1. Open settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-2">
+          <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-6" target="S44jFDir6_swcwWM0D-N-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-5" value="3 Send an email with the UserID and &lt;br&gt;content which describes what is wrong." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-4">
+          <mxGeometry x="-0.212" y="-4" relative="1" as="geometry">
+            <mxPoint x="41" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-6" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="150" y="520.63" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="380.84000000000003" y="461.11" width="78.33" height="149.03" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-10" target="S44jFDir6_swcwWM0D-N-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-9" value="8.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-8">
+          <mxGeometry x="0.4362" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-10" value="Firebase Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="600" y="273.6" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-13" target="S44jFDir6_swcwWM0D-N-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172" y="73.6" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="303.6" />
+              <mxPoint x="165" y="303.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-12" value="4.Receive the email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-11">
+          <mxGeometry x="0.0809" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-13" value="CrazyLabs Mail Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="105" y="273.6" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-16" target="S44jFDir6_swcwWM0D-N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NpS6fe4za9nJXRW17RhG-1" value="Create/Publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-14">
+          <mxGeometry x="-0.034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-16" value="Firebase console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="390.00000000000006" y="82" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-17" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="399.99999999999994" y="515.63" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-18" value="Crazylabs Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="150" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="S44jFDir6_swcwWM0D-N-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-20" value="6.Create a uniq_cpn_user_x_param parameter &lt;br&gt;and set the value to a unique coupon json when UserID is user_x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-19">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint x="30" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-17" target="S44jFDir6_swcwWM0D-N-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-23" value="2. Copy the UserID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-22">
+          <mxGeometry x="0.3811" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-24" value="8. Open a claim popup if the value is a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+          <mxGeometry x="345" y="401.11" width="187.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S44jFDir6_swcwWM0D-N-25" value="7. Get the value of uniq_cpn_user_x_param from remote config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
           <mxGeometry x="345" y="360" width="140" height="30" as="geometry" />
         </mxCell>
       </root>

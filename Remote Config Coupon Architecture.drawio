@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:32:31.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vIavsk9ZYcShQK9Uj4--" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:36:43.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="91Tgd4mRmSQJcB744khW" version="22.1.16" type="github" pages="5">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="S44jFDir6_swcwWM0D-N-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-20" value="6.Create a uniq_cpn_user_x_param parameter &lt;br&gt;and set the value to a coupon json when userId = UserID;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-19">
+        <mxCell id="S44jFDir6_swcwWM0D-N-20" value="6.Create a parameter and condition for unique coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S44jFDir6_swcwWM0D-N-19">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-41" as="offset" />
           </mxGeometry>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:36:43.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="91Tgd4mRmSQJcB744khW" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:37:56.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vyrxu72GKiYDsFwI4oqy" version="22.1.16" type="github" pages="5">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-24" value="8. Open a claim popup if the value is a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
           <mxGeometry x="345" y="401.11" width="187.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-25" value="7. Get the value of uniq_cpn_user_x_param from remote config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
+        <mxCell id="S44jFDir6_swcwWM0D-N-25" value="7. Get the coupon parameter value of from remote config" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
           <mxGeometry x="345" y="360" width="140" height="30" as="geometry" />
         </mxCell>
       </root>

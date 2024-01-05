@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T06:22:35.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fa3-GYr-bFNyYrsxhjQC" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-05T06:26:32.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5bKH_gT5hwkl_3IgUieq" version="22.1.16" type="github" pages="5">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-6" target="S44jFDir6_swcwWM0D-N-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-3" value="1. Open settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-2" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-3" value="2. Open settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -119,7 +119,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-6" target="S44jFDir6_swcwWM0D-N-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-5" value="3 Send an email with the UserID and &lt;br&gt;content which describes what is wrong." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-4" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-5" value="4 Send an email with the UserID and &lt;br&gt;content which describes what is wrong." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-4" vertex="1" connectable="0">
           <mxGeometry x="-0.212" y="-4" relative="1" as="geometry">
             <mxPoint x="31" y="-13" as="offset" />
           </mxGeometry>
@@ -133,7 +133,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-10" target="S44jFDir6_swcwWM0D-N-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-9" value="9.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-8" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-9" value="10.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-8" vertex="1" connectable="0">
           <mxGeometry x="0.4362" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-12" value="4.Receive the email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-11" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-12" value="5.Receive the email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-11" vertex="1" connectable="0">
           <mxGeometry x="0.0809" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-16" target="S44jFDir6_swcwWM0D-N-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NpS6fe4za9nJXRW17RhG-1" value="8.Create/Publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-14" vertex="1" connectable="0">
+        <mxCell id="NpS6fe4za9nJXRW17RhG-1" value="9.Create/Publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-14" vertex="1" connectable="0">
           <mxGeometry x="-0.034" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -175,7 +175,7 @@
         <mxCell id="Wyg2xG65E1kPENNK5sl9-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="Wyg2xG65E1kPENNK5sl9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wyg2xG65E1kPENNK5sl9-5" value="5.Generate a coupon json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-4">
+        <mxCell id="Wyg2xG65E1kPENNK5sl9-5" value="6.Generate a coupon json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-4">
           <mxGeometry x="0.0948" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -186,7 +186,7 @@
         <mxCell id="S44jFDir6_swcwWM0D-N-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="S44jFDir6_swcwWM0D-N-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-20" value="7.Create a coupon parameter/condition &lt;br&gt;and set the value to the copied json;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-19" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-20" value="8.Create a coupon parameter/condition &lt;br&gt;and set the value to the copied json;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-19" vertex="1" connectable="0">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="-21" as="offset" />
           </mxGeometry>
@@ -198,18 +198,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-23" value="2. Copy UserID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-22" vertex="1" connectable="0">
+        <mxCell id="S44jFDir6_swcwWM0D-N-23" value="3. Copy UserID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S44jFDir6_swcwWM0D-N-22" vertex="1" connectable="0">
           <mxGeometry x="0.3811" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S44jFDir6_swcwWM0D-N-25" value="10. Get the unique coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="S44jFDir6_swcwWM0D-N-1" vertex="1">
+        <mxCell id="S44jFDir6_swcwWM0D-N-25" value="11. Get the unique coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="S44jFDir6_swcwWM0D-N-1" vertex="1">
           <mxGeometry x="405" y="477.11" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wyg2xG65E1kPENNK5sl9-1" value="Google Sheets&lt;br&gt;&lt;br&gt;Contains all gifts types, one tab for each game." style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/381-Browser-128.png" vertex="1" parent="S44jFDir6_swcwWM0D-N-1">
           <mxGeometry x="430" y="189.16" width="80.84" height="80.84" as="geometry" />
         </mxCell>
-        <mxCell id="Wyg2xG65E1kPENNK5sl9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="S44jFDir6_swcwWM0D-N-6">
+        <mxCell id="Wyg2xG65E1kPENNK5sl9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="S44jFDir6_swcwWM0D-N-18" target="S44jFDir6_swcwWM0D-N-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="176" />
@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wyg2xG65E1kPENNK5sl9-3" value="Contact player to send UserID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-2">
+        <mxCell id="Wyg2xG65E1kPENNK5sl9-3" value="1.Contact player to send UserID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-2">
           <mxGeometry x="0.0369" relative="1" as="geometry">
             <mxPoint x="10" y="29" as="offset" />
           </mxGeometry>
@@ -225,7 +225,7 @@
         <mxCell id="Wyg2xG65E1kPENNK5sl9-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="S44jFDir6_swcwWM0D-N-1" source="Wyg2xG65E1kPENNK5sl9-1" target="S44jFDir6_swcwWM0D-N-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wyg2xG65E1kPENNK5sl9-7" value="6.Copy the coupon json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-6">
+        <mxCell id="Wyg2xG65E1kPENNK5sl9-7" value="7.Copy the coupon json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wyg2xG65E1kPENNK5sl9-6">
           <mxGeometry x="-0.1109" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

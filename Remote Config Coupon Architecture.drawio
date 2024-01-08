@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T03:17:36.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Dn7QKVgVkGIuMjZxtrjb" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:37:16.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wKi3UKUOBaUFJVJvWPKf" version="22.1.16" type="github" pages="7">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,58 +418,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XW82dXVMiKysYKq-cBUf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-3" target="XW82dXVMiKysYKq-cBUf-5">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-3" target="XW82dXVMiKysYKq-cBUf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-3" value="Get coupons_param from firebase remote config" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-3" value="Get coupons_param from firebase remote config" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-5" target="XW82dXVMiKysYKq-cBUf-11">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-5" target="XW82dXVMiKysYKq-cBUf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-5" value="Process each item of uniqueCouponsMapping field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-5" value="Process each item of uniqueCouponsMapping field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="260" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-7" target="XW82dXVMiKysYKq-cBUf-3">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-7" target="XW82dXVMiKysYKq-cBUf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-7" value="Game Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-7" value="Game Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="330" y="10" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-11" target="XW82dXVMiKysYKq-cBUf-13">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-11" target="XW82dXVMiKysYKq-cBUf-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-11" value="Use the latest secret key to decrypt the secretCpnID field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-11" value="Use the latest secret key to decrypt the secretCpnID field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="319.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-13" target="XW82dXVMiKysYKq-cBUf-20">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-13" target="XW82dXVMiKysYKq-cBUf-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-44" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-21">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-44" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-21" vertex="1" connectable="0">
           <mxGeometry x="-0.3778" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-13" target="XW82dXVMiKysYKq-cBUf-40">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-13" target="XW82dXVMiKysYKq-cBUf-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-42" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-41">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-42" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-41" vertex="1" connectable="0">
           <mxGeometry x="0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-13" value="Decryption is successful ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-13" value="Decryption is successful ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="319" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-18" target="XW82dXVMiKysYKq-cBUf-23">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-18" target="XW82dXVMiKysYKq-cBUf-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-24">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-24" vertex="1" connectable="0">
           <mxGeometry x="0.0909" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-18" target="XW82dXVMiKysYKq-cBUf-5">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XW82dXVMiKysYKq-cBUf-18" target="XW82dXVMiKysYKq-cBUf-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="280" as="targetPoint" />
             <Array as="points">
@@ -478,27 +478,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-26">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-26" vertex="1" connectable="0">
           <mxGeometry x="-0.0864" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-18" value="Is the decrypted user id equals to the device&#39;s user id &lt;br&gt;and does coupon id exist in coupons field?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-18" value="Is the decrypted user id equals to the device&#39;s user id &lt;br&gt;and does coupon id exist in coupons field?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="259" y="715" width="240" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-20" target="XW82dXVMiKysYKq-cBUf-18">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-20" target="XW82dXVMiKysYKq-cBUf-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-20" value="Get decrypted user id and coupon id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-20" value="Get decrypted user id and coupon id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="319" y="605" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-23" target="XW82dXVMiKysYKq-cBUf-33">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-23" target="XW82dXVMiKysYKq-cBUf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-23" value="Find the corresponding coupon in coupons field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-23" value="Find the corresponding coupon in coupons field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-37" target="XW82dXVMiKysYKq-cBUf-5">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="XW82dXVMiKysYKq-cBUf-37" target="XW82dXVMiKysYKq-cBUf-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1175" as="sourcePoint" />
             <mxPoint x="210" y="285" as="targetPoint" />
@@ -507,29 +507,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-29" value="Give the gift defined in grants field to the player" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-29" value="Give the gift defined in grants field to the player" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-33" target="XW82dXVMiKysYKq-cBUf-29">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-33" target="XW82dXVMiKysYKq-cBUf-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-35">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-35" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-33" target="XW82dXVMiKysYKq-cBUf-37">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XW82dXVMiKysYKq-cBUf-33" target="XW82dXVMiKysYKq-cBUf-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XW82dXVMiKysYKq-cBUf-38">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XW82dXVMiKysYKq-cBUf-38" vertex="1" connectable="0">
           <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-33" value="Is the coupon expired or did the device claim the coupon before?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-33" value="Is the coupon expired or did the device claim the coupon before?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="290" y="960" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XW82dXVMiKysYKq-cBUf-29" target="XW82dXVMiKysYKq-cBUf-37">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XW82dXVMiKysYKq-cBUf-29" target="XW82dXVMiKysYKq-cBUf-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="1150" as="sourcePoint" />
             <mxPoint x="300" y="65" as="targetPoint" />
@@ -538,11 +538,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-37" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="990" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XW82dXVMiKysYKq-cBUf-40" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XW82dXVMiKysYKq-cBUf-40" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="169" y="510" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="stage 4 Unique/Multi-Unique process flow 的副本" id="_wVECLf3r4kJsatAjv9w">
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="AsRW4Gka-tA3mbrOOpT1-0" />
+        <mxCell id="AsRW4Gka-tA3mbrOOpT1-1" parent="AsRW4Gka-tA3mbrOOpT1-0" />
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="AsRW4Gka-tA3mbrOOpT1-3" target="Hn5J85X9eZN1JXB_aiVX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsRW4Gka-tA3mbrOOpT1-3" value="Get coupon parameters by the&amp;nbsp;getKeysByPrefix&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AsRW4Gka-tA3mbrOOpT1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="AsRW4Gka-tA3mbrOOpT1-7" target="AsRW4Gka-tA3mbrOOpT1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsRW4Gka-tA3mbrOOpT1-7" value="Game Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="330" y="10" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-0" value="For unique coupons the prefix is &quot;UniqueCouponParam&quot; and for multi unique coupons is MultiUniqueParam" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="490" y="80" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="AsRW4Gka-tA3mbrOOpT1-3" target="Hn5J85X9eZN1JXB_aiVX-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="470" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="Hn5J85X9eZN1JXB_aiVX-2" target="Hn5J85X9eZN1JXB_aiVX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-2" value="Process all coupon parameters one by one" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="Hn5J85X9eZN1JXB_aiVX-4" target="Hn5J85X9eZN1JXB_aiVX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-8" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hn5J85X9eZN1JXB_aiVX-7">
+          <mxGeometry x="-0.4444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-4" value="The parameter is a valid coupon json?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="330" y="410" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hn5J85X9eZN1JXB_aiVX-6" value="Open a claim popup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

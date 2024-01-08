@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:51:00.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="j-3HEr1I4sq_LC5UVjaY" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:51:46.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NECSO3dFH8Fb_oZx8fqO" version="22.1.16" type="github" pages="7">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -593,7 +593,7 @@
         <mxCell id="pa3Tdaw78kGZCl4R_qSO-0" value="The player claims the gifts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
           <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pa3Tdaw78kGZCl4R_qSO-2" value="Game client saves the coupon parameter is claimed" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+        <mxCell id="pa3Tdaw78kGZCl4R_qSO-2" value="Game client saves the coupon parameters are claimed" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
           <mxGeometry x="320" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

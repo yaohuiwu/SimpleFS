@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:40:49.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P0ikOWpTxIxHT4ps2s6U" version="22.1.16" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:51:00.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="j-3HEr1I4sq_LC5UVjaY" version="22.1.16" type="github" pages="7">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -581,8 +581,20 @@
         <mxCell id="Hn5J85X9eZN1JXB_aiVX-2" value="Collect all the gifts in the unique and multi unique coupons" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pa3Tdaw78kGZCl4R_qSO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="Hn5J85X9eZN1JXB_aiVX-6" target="pa3Tdaw78kGZCl4R_qSO-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hn5J85X9eZN1JXB_aiVX-6" value="Open a claim popup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
           <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pa3Tdaw78kGZCl4R_qSO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="pa3Tdaw78kGZCl4R_qSO-0" target="pa3Tdaw78kGZCl4R_qSO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pa3Tdaw78kGZCl4R_qSO-0" value="The player claims the gifts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pa3Tdaw78kGZCl4R_qSO-2" value="Game client saves the coupon parameter is claimed" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="320" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -592,131 +604,35 @@
       <root>
         <mxCell id="tCKBwNmohypoBOpF8FGc-0" />
         <mxCell id="tCKBwNmohypoBOpF8FGc-1" parent="tCKBwNmohypoBOpF8FGc-0" />
-        <mxCell id="tCKBwNmohypoBOpF8FGc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-3" target="tCKBwNmohypoBOpF8FGc-5">
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-7" target="-KIUev8NMC8A2tnYHr2K-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-3" value="Get coupons_param from firebase remote config" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="tCKBwNmohypoBOpF8FGc-7" value="Player clicks a group deep link" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="tCKBwNmohypoBOpF8FGc-1" vertex="1">
+          <mxGeometry x="330" y="50" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-5" target="tCKBwNmohypoBOpF8FGc-9">
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="-KIUev8NMC8A2tnYHr2K-0" target="-KIUev8NMC8A2tnYHr2K-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-5" value="Process each item of groupCouponsMapping field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="300" y="260" width="160" height="60" as="geometry" />
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-0" value="Game client started" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-7" target="tCKBwNmohypoBOpF8FGc-3">
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="-KIUev8NMC8A2tnYHr2K-2" target="-KIUev8NMC8A2tnYHr2K-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-7" value="Player enters a group key" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="330" y="10" width="100" height="70" as="geometry" />
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-2" value="Get group coupon parameter with&amp;nbsp;getKeysByPrefix method" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
+          <mxGeometry x="320" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-9" target="tCKBwNmohypoBOpF8FGc-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-4" value="The prefix for group coupon parameter is&amp;nbsp; groupCouponParam" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
+          <mxGeometry x="520" y="275" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-9" value="Use the group key to decrypt the secretCpnID field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="319.5" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-14" target="tCKBwNmohypoBOpF8FGc-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-10">
-          <mxGeometry x="-0.3778" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="-KIUev8NMC8A2tnYHr2K-2" target="-KIUev8NMC8A2tnYHr2K-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-14" target="tCKBwNmohypoBOpF8FGc-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-12">
-          <mxGeometry x="0.1" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-14" value="Decryption is successful ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="319" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-19" target="tCKBwNmohypoBOpF8FGc-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-15">
-          <mxGeometry x="0.0909" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-19" target="tCKBwNmohypoBOpF8FGc-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="763" />
-              <mxPoint x="580" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-17">
-          <mxGeometry x="-0.0864" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-19" value="Is the decrypted group prefix equals to &quot;group-coupons:&quot;&lt;br&gt;and does coupon id exist in coupons field?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="259" y="715" width="240" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-21" target="tCKBwNmohypoBOpF8FGc-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-21" value="Get decrypted group prefix and coupon id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="319" y="605" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-23" target="tCKBwNmohypoBOpF8FGc-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-23" value="Find the corresponding coupon in coupons field" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="320" y="860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-32" target="tCKBwNmohypoBOpF8FGc-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="1175" as="sourcePoint" />
-            <mxPoint x="210" y="285" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-25" value="Give the gift defined in grants field to the player" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="320" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-30" target="tCKBwNmohypoBOpF8FGc-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-26">
-          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-30" target="tCKBwNmohypoBOpF8FGc-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tCKBwNmohypoBOpF8FGc-28">
-          <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-30" value="Is the coupon expired or did the device claim the coupon before?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="280" y="960" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tCKBwNmohypoBOpF8FGc-1" source="tCKBwNmohypoBOpF8FGc-25" target="tCKBwNmohypoBOpF8FGc-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="1150" as="sourcePoint" />
-            <mxPoint x="300" y="65" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-32" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="170" y="990" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tCKBwNmohypoBOpF8FGc-33" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
-          <mxGeometry x="169" y="510" width="20" height="20" as="geometry" />
+        <mxCell id="-KIUev8NMC8A2tnYHr2K-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="tCKBwNmohypoBOpF8FGc-1">
+          <mxGeometry x="320" y="455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

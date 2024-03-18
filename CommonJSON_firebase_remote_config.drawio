@@ -1,9 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T06:33:40.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="FSWYskadJ5kXwpYyYwQF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T07:03:42.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="irqJIMWI32rw9QAn4ckU" version="24.0.4" type="github">
   <diagram name="第 1 页" id="wQEscU7dNK0wzXcSkH58">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SgkQILPMJPOA34FpKqAl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgkQILPMJPOA34FpKqAl-1" target="SgkQILPMJPOA34FpKqAl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-5" value="Publish the&amp;nbsp;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); --darkreader-inline-bgcolor: #2d2b27; --darkreader-inline-color: #fffff2;&quot;&gt;BE common parameters&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SgkQILPMJPOA34FpKqAl-4">
+          <mxGeometry x="-0.0429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-1" value="BE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-2" value="Firebase Remote Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SgkQILPMJPOA34FpKqAl-3" target="SgkQILPMJPOA34FpKqAl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-7" value="Fetch or listen for updates of the BE common parameters" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SgkQILPMJPOA34FpKqAl-6">
+          <mxGeometry x="-0.23" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SgkQILPMJPOA34FpKqAl-3" value="Game Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

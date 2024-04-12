@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T10:10:59.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IIgdLe2P1ZsGYtrJ-9s6" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-12T10:18:19.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rAPW9o3mW7IC6TY7huLH" version="24.2.0" type="github" pages="8">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
         <mxCell id="AsRW4Gka-tA3mbrOOpT1-7" value="Game Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="AsRW4Gka-tA3mbrOOpT1-1" vertex="1">
           <mxGeometry x="330" y="10" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="Hn5J85X9eZN1JXB_aiVX-2" target="qMXhvFm-baPBqVPFvQpy-1">
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="Hn5J85X9eZN1JXB_aiVX-2" target="942Xhcp2pOE6vUYPrDFh-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hn5J85X9eZN1JXB_aiVX-2" value="Check all Unique and MultiUnique coupons one by one" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="AsRW4Gka-tA3mbrOOpT1-1" vertex="1">
@@ -574,19 +574,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hn5J85X9eZN1JXB_aiVX-6" value="Open a claim popup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="AsRW4Gka-tA3mbrOOpT1-1" vertex="1">
-          <mxGeometry x="320" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pa3Tdaw78kGZCl4R_qSO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AsRW4Gka-tA3mbrOOpT1-1" source="pa3Tdaw78kGZCl4R_qSO-0" target="pa3Tdaw78kGZCl4R_qSO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pa3Tdaw78kGZCl4R_qSO-0" value="The player claims the gifts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="AsRW4Gka-tA3mbrOOpT1-1" vertex="1">
-          <mxGeometry x="320" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="774" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMXhvFm-baPBqVPFvQpy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="pa3Tdaw78kGZCl4R_qSO-2" target="qMXhvFm-baPBqVPFvQpy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pa3Tdaw78kGZCl4R_qSO-2" value="Game client saves the coupon parameters are claimed" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="AsRW4Gka-tA3mbrOOpT1-1" vertex="1">
-          <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="874" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMXhvFm-baPBqVPFvQpy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="qMXhvFm-baPBqVPFvQpy-1" target="Hn5J85X9eZN1JXB_aiVX-6">
           <mxGeometry relative="1" as="geometry" />
@@ -596,24 +596,134 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="qMXhvFm-baPBqVPFvQpy-1" target="Hn5J85X9eZN1JXB_aiVX-2">
+        <mxCell id="qMXhvFm-baPBqVPFvQpy-1" value="If the playerIds of the coupon contains my playerId?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="280" y="550" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMXhvFm-baPBqVPFvQpy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="qMXhvFm-baPBqVPFvQpy-8" target="qMXhvFm-baPBqVPFvQpy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMXhvFm-baPBqVPFvQpy-8" value="Is the loop finished?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="300" y="964" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMXhvFm-baPBqVPFvQpy-10" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="330" y="1094" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="942Xhcp2pOE6vUYPrDFh-0" target="qMXhvFm-baPBqVPFvQpy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="942Xhcp2pOE6vUYPrDFh-2">
+          <mxGeometry x="-0.3333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="942Xhcp2pOE6vUYPrDFh-0" target="942Xhcp2pOE6vUYPrDFh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="942Xhcp2pOE6vUYPrDFh-5">
+          <mxGeometry x="0.05" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-0" value="Is a Unique/MultiUnique Coupon ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="250" y="410" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="942Xhcp2pOE6vUYPrDFh-4" target="942Xhcp2pOE6vUYPrDFh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-14" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="942Xhcp2pOE6vUYPrDFh-8">
+          <mxGeometry x="-0.1429" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-4" value="Is a Group Coupon ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="590" y="410" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="942Xhcp2pOE6vUYPrDFh-7" target="942Xhcp2pOE6vUYPrDFh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-7" value="Get the value of the parameter named with groupKeyName" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="630" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="942Xhcp2pOE6vUYPrDFh-9" target="Hn5J85X9eZN1JXB_aiVX-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="942Xhcp2pOE6vUYPrDFh-12">
+          <mxGeometry x="-0.1167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="942Xhcp2pOE6vUYPrDFh-9" value="Is the value&amp;nbsp; true?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+          <mxGeometry x="650" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="group coupon client logic" id="5FXFmcPc8uXE6xU4MFWV">
+    <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-0" />
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-1" parent="eM0qqRKMzGQI6WHAS0WC-0" />
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-3" target="eM0qqRKMzGQI6WHAS0WC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-3" value="Get the value of &#39;prod_Coupons&#39; coupon parameter&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-5" target="eM0qqRKMzGQI6WHAS0WC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-5" value="Game Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="330" y="10" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-7" value="Check all Group coupons one by one" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-9" target="eM0qqRKMzGQI6WHAS0WC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-9" value="Open a claim popup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="320" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-11" target="eM0qqRKMzGQI6WHAS0WC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-11" value="The player claims the gifts" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="320" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-13" target="eM0qqRKMzGQI6WHAS0WC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-13" value="Game client saves the coupon parameters are claimed" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
+          <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" target="eM0qqRKMzGQI6WHAS0WC-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eM0qqRKMzGQI6WHAS0WC-14">
+          <mxGeometry x="-0.2923" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" target="eM0qqRKMzGQI6WHAS0WC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="520" y="450" />
               <mxPoint x="520" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-1" value="If the playerIds of the coupon contains my playerId?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
-          <mxGeometry x="280" y="410" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AsRW4Gka-tA3mbrOOpT1-1" source="qMXhvFm-baPBqVPFvQpy-8" target="qMXhvFm-baPBqVPFvQpy-10">
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eM0qqRKMzGQI6WHAS0WC-1" source="eM0qqRKMzGQI6WHAS0WC-19" target="eM0qqRKMzGQI6WHAS0WC-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-8" value="Is the loop finished?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-19" value="Is the loop finished?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
           <mxGeometry x="300" y="950" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qMXhvFm-baPBqVPFvQpy-10" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="AsRW4Gka-tA3mbrOOpT1-1">
+        <mxCell id="eM0qqRKMzGQI6WHAS0WC-20" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="eM0qqRKMzGQI6WHAS0WC-1">
           <mxGeometry x="330" y="1080" width="100" height="60" as="geometry" />
         </mxCell>
       </root>

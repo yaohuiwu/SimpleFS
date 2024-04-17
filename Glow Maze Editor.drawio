@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T07:08:08.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IWsGTTeFjdzexlyO3fBg" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:11:01.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RovOlg4OQ9YxW31bvpGG" version="24.2.3" type="github">
   <diagram name="第 1 页" id="JhPpP-9z2UGz7NTdmE30">
     <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="DVUntLbNKxFS4y0-cJTB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVUntLbNKxFS4y0-cJTB-1" target="DVUntLbNKxFS4y0-cJTB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVUntLbNKxFS4y0-cJTB-8" value="Save/List json files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVUntLbNKxFS4y0-cJTB-7">
+        <mxCell id="DVUntLbNKxFS4y0-cJTB-8" value="Save/List/Delete maze files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVUntLbNKxFS4y0-cJTB-7">
           <mxGeometry x="-0.2308" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
@@ -15,19 +15,19 @@
         <mxCell id="DVUntLbNKxFS4y0-cJTB-1" value="BE Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="120" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="DVUntLbNKxFS4y0-cJTB-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" vertex="1" parent="1">
-          <mxGeometry x="610" y="90" width="66.4" height="58" as="geometry" />
+        <mxCell id="DVUntLbNKxFS4y0-cJTB-2" value="Google Drive" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="66.4" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DVUntLbNKxFS4y0-cJTB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DVUntLbNKxFS4y0-cJTB-4" target="DVUntLbNKxFS4y0-cJTB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DVUntLbNKxFS4y0-cJTB-6" value="View/Editor mazes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVUntLbNKxFS4y0-cJTB-5">
+        <mxCell id="DVUntLbNKxFS4y0-cJTB-6" value="Edit maze files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVUntLbNKxFS4y0-cJTB-5">
           <mxGeometry x="-0.245" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVUntLbNKxFS4y0-cJTB-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="88" width="30" height="60" as="geometry" />
+          <mxGeometry x="150" y="88" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

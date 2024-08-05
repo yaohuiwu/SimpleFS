@@ -124,7 +124,7 @@
         <mxCell id="TVIS1MlrXcMwFg1n_D00-4" value="Get an access token and a refresh token from the response" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="335" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVIS1MlrXcMwFg1n_D00-6" value="Call the RAG API when the external guest asks a question using the access token" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="TVIS1MlrXcMwFg1n_D00-6" value="Call the R2R RAG API when received an RAG API request using the access token" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="335" y="425" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="TVIS1MlrXcMwFg1n_D00-8" value="Refresh the access token using the refresh token regularly" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">

@@ -60,7 +60,7 @@
         <mxCell id="eKqhqYYnv1C-XFWEiN4d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="eKqhqYYnv1C-XFWEiN4d-10" target="eKqhqYYnv1C-XFWEiN4d-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eKqhqYYnv1C-XFWEiN4d-17" value="Call query API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eKqhqYYnv1C-XFWEiN4d-16" vertex="1" connectable="0">
+        <mxCell id="eKqhqYYnv1C-XFWEiN4d-17" value="Call the RAG API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eKqhqYYnv1C-XFWEiN4d-16" vertex="1" connectable="0">
           <mxGeometry x="0.1865" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

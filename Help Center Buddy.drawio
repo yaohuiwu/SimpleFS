@@ -65,7 +65,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKqhqYYnv1C-XFWEiN4d-17" value="Call the RAG API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eKqhqYYnv1C-XFWEiN4d-16" vertex="1" connectable="0">
+        <mxCell id="eKqhqYYnv1C-XFWEiN4d-17" value="Call the /rag API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eKqhqYYnv1C-XFWEiN4d-16" vertex="1" connectable="0">
           <mxGeometry x="0.1865" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

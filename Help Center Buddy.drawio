@@ -303,6 +303,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VW8P16DMPvKF5awHos6W-5" value="Guest Query Feature" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="450" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VW8P16DMPvKF5awHos6W-1" target="VW8P16DMPvKF5awHos6W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-9" value="Call the /query api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VW8P16DMPvKF5awHos6W-8">
+          <mxGeometry x="-0.1167" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-1" value="Frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-2" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="119" width="120" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VW8P16DMPvKF5awHos6W-3" target="VW8P16DMPvKF5awHos6W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-7" value="Input a question&amp;nbsp;&lt;div&gt;and click the query&lt;/div&gt;&lt;div&gt;button&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VW8P16DMPvKF5awHos6W-6">
+          <mxGeometry x="0.1529" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-3" value="External Users" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
+          <mxGeometry x="50" y="82" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW8P16DMPvKF5awHos6W-10" value="r2r-js-client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

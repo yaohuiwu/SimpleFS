@@ -375,7 +375,7 @@
           <mxGeometry x="489" y="134" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VW8P16DMPvKF5awHos6W-14" value="r2r config" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="489" y="179" width="71" height="41" as="geometry" />
+          <mxGeometry x="493.5" y="180" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VW8P16DMPvKF5awHos6W-16" value="email&lt;div&gt;password&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="60" height="30" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="Archetecture v1" id="EAgFjHO4IOfU2PMyr592">
     <mxGraphModel dx="1434" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
         <mxCell id="aESBuXXO63aX-BoJzt_6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aESBuXXO63aX-BoJzt_6-1" target="aESBuXXO63aX-BoJzt_6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fqQxdxxsL7YeSqZcQy1B-1" value="/rag" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aESBuXXO63aX-BoJzt_6-10">
+        <mxCell id="fqQxdxxsL7YeSqZcQy1B-1" value="/rag" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aESBuXXO63aX-BoJzt_6-10" vertex="1" connectable="0">
           <mxGeometry x="-0.0968" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -432,8 +432,11 @@
         <mxCell id="aESBuXXO63aX-BoJzt_6-6" value="R2R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="229" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fqQxdxxsL7YeSqZcQy1B-2" value="http://54.180.17.191:8000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fqQxdxxsL7YeSqZcQy1B-2" value="http://54.180.17.191:8000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1TtlOa12IeQwOWFNNIg-1" value="http://192.168.0.x:8010" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

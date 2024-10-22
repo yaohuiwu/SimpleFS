@@ -10,7 +10,7 @@
         <mxCell id="e2AFh_ndy3iAakVpakJK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" parent="1" source="e2AFh_ndy3iAakVpakJK-2" target="e2AFh_ndy3iAakVpakJK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-30" value="9.Got the config json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-26" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-30" value="Got the config json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-26" vertex="1" connectable="0">
           <mxGeometry x="-0.0221" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -20,7 +20,7 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-36" value="5. Got the existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-35" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-36" value="Got the existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-35" vertex="1" connectable="0">
           <mxGeometry x="0.1911" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -33,7 +33,7 @@
             <mxPoint x="177" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-15" value="1.Create new or edit existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-12" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-15" value="Create new or edit existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-12" vertex="1" connectable="0">
           <mxGeometry x="-0.1648" relative="1" as="geometry">
             <mxPoint x="87" y="-10" as="offset" />
           </mxGeometry>
@@ -43,7 +43,7 @@
             <mxPoint x="79" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-27" value="7.Click the download config button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-24" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-27" value="Click the download config button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-24" vertex="1" connectable="0">
           <mxGeometry x="-0.1392" y="3" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
@@ -54,7 +54,7 @@
         <mxCell id="e2AFh_ndy3iAakVpakJK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="e2AFh_ndy3iAakVpakJK-5" target="e2AFh_ndy3iAakVpakJK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-19" value="3.Save local data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-18" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-19" value="Save local data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2754" relative="1" as="geometry">
             <mxPoint x="19" y="46" as="offset" />
           </mxGeometry>
@@ -62,7 +62,7 @@
         <mxCell id="e2AFh_ndy3iAakVpakJK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="e2AFh_ndy3iAakVpakJK-5" target="e2AFh_ndy3iAakVpakJK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-22" value="6.Publish the data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-21" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-22" value="Publish the data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-21" vertex="1" connectable="0">
           <mxGeometry x="0.1748" y="-2" relative="1" as="geometry">
             <mxPoint x="44" y="-17" as="offset" />
           </mxGeometry>
@@ -72,7 +72,7 @@
             <mxPoint x="440" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-34" value="4. Load existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-33" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-34" value="Load existing data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-33" vertex="1" connectable="0">
           <mxGeometry x="0.1829" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
         <mxCell id="e2AFh_ndy3iAakVpakJK-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2AFh_ndy3iAakVpakJK-9" target="e2AFh_ndy3iAakVpakJK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-29" value="8. Download the config json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-25" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-29" value="Download the config json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-25" vertex="1" connectable="0">
           <mxGeometry x="-0.1515" y="-1" relative="1" as="geometry">
             <mxPoint x="5" y="-11" as="offset" />
           </mxGeometry>
@@ -94,7 +94,7 @@
         <mxCell id="e2AFh_ndy3iAakVpakJK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2AFh_ndy3iAakVpakJK-10" target="e2AFh_ndy3iAakVpakJK-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2AFh_ndy3iAakVpakJK-17" value="2.Call rest APIs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-16" vertex="1" connectable="0">
+        <mxCell id="e2AFh_ndy3iAakVpakJK-17" value="Call rest APIs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e2AFh_ndy3iAakVpakJK-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2237" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

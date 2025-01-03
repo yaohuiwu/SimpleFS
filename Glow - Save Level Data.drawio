@@ -13,7 +13,7 @@
         <mxCell id="nZfUMRDImMn_VAjpD-_a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.65;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nZfUMRDImMn_VAjpD-_a-1" source="nZfUMRDImMn_VAjpD-_a-2" target="nZfUMRDImMn_VAjpD-_a-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nZfUMRDImMn_VAjpD-_a-2" value="Glow Level&lt;br&gt;API Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="nZfUMRDImMn_VAjpD-_a-1" vertex="1">
+        <mxCell id="nZfUMRDImMn_VAjpD-_a-2" value="API Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="nZfUMRDImMn_VAjpD-_a-1" vertex="1">
           <mxGeometry x="30" y="90" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="nZfUMRDImMn_VAjpD-_a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nZfUMRDImMn_VAjpD-_a-1" source="nZfUMRDImMn_VAjpD-_a-5" target="nZfUMRDImMn_VAjpD-_a-6" edge="1">

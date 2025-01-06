@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HrLIsz2yKfnk_InutHty-11" value="7. Return the user&#39;s progress data&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HrLIsz2yKfnk_InutHty-10">
+        <mxCell id="HrLIsz2yKfnk_InutHty-11" value="7. Return the player&#39;s progress data&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HrLIsz2yKfnk_InutHty-10">
           <mxGeometry x="0.4457" y="-5" relative="1" as="geometry">
             <mxPoint x="-1" y="18" as="offset" />
           </mxGeometry>

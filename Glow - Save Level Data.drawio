@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="GxO4DzfJPCLEWfdv5AIp">
-    <mxGraphModel dx="1434" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AVbySlQ4fHWuwLLzPywg-7" value="4.Get a player&#39;s progress by playerID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-6" vertex="1" connectable="0">
+        <mxCell id="AVbySlQ4fHWuwLLzPywg-7" value="4.Get a player&#39;s progress by playerID&amp;nbsp;&lt;div&gt;and load the data when got it&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-6" vertex="1" connectable="0">
           <mxGeometry x="-0.4238" relative="1" as="geometry">
             <mxPoint x="25" y="1" as="offset" />
           </mxGeometry>
@@ -86,6 +86,18 @@
         <mxCell id="AVbySlQ4fHWuwLLzPywg-18" value="5. Input a playerID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0459" y="4" relative="1" as="geometry">
             <mxPoint x="-24" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrLIsz2yKfnk_InutHty-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AVbySlQ4fHWuwLLzPywg-14" target="nZfUMRDImMn_VAjpD-_a-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HrLIsz2yKfnk_InutHty-17" value="6. Play the game based on the player&#39;s progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HrLIsz2yKfnk_InutHty-15">
+          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AVbySlQ4fHWuwLLzPywg-14" value="QA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">

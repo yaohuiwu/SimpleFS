@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AVbySlQ4fHWuwLLzPywg-7" value="4.Query progress data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-6" vertex="1" connectable="0">
+        <mxCell id="AVbySlQ4fHWuwLLzPywg-7" value="4.Get a player&#39;s progress by playerID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-6" vertex="1" connectable="0">
           <mxGeometry x="-0.4238" relative="1" as="geometry">
             <mxPoint x="25" y="1" as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
         <mxCell id="AVbySlQ4fHWuwLLzPywg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AVbySlQ4fHWuwLLzPywg-14" target="AVbySlQ4fHWuwLLzPywg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AVbySlQ4fHWuwLLzPywg-18" value="5.Load a player&#39;s progress by playerID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-17" vertex="1" connectable="0">
+        <mxCell id="AVbySlQ4fHWuwLLzPywg-18" value="5. Input a playerID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AVbySlQ4fHWuwLLzPywg-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0459" y="4" relative="1" as="geometry">
             <mxPoint x="-24" y="6" as="offset" />
           </mxGeometry>

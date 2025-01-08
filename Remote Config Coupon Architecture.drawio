@@ -462,7 +462,7 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-6" target="d1m8B6kHRYt5ws_3d-IH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-3" value="7. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-2" vertex="1" connectable="0">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-3" value="7. Claim the rewards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

@@ -549,7 +549,7 @@
             <mxPoint x="160" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-5" value="5. Get the&amp;nbsp; group coupon deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-4">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-5" value="5. Get the deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-4">
           <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -590,7 +590,7 @@
             <mxPoint x="160" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-16" value="4. Send the group coupon deep link (contains coupon id) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-15">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-16" value="4. Send the coupon deep link (contains a deepLink key) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-15">
           <mxGeometry x="0.2353" y="3" relative="1" as="geometry">
             <mxPoint x="56" y="40" as="offset" />
           </mxGeometry>
@@ -606,7 +606,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-20" value="7. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-20" value="7. Get all the deeplink coupon parameter and find the parameter that matches the deepLink key. Open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
           <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tETeYlrsgDz7YL3yW2mN-21" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">

@@ -601,7 +601,7 @@
         <mxCell id="tETeYlrsgDz7YL3yW2mN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-17" target="tETeYlrsgDz7YL3yW2mN-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-19" value="1.Create a Group Coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-18">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-19" value="1.Create a DeepLink Coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-18">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

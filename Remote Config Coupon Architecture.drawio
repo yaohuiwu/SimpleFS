@@ -462,7 +462,7 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-6" target="d1m8B6kHRYt5ws_3d-IH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-3" value="5. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-2" vertex="1" connectable="0">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-3" value="7. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -476,7 +476,7 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-10" target="d1m8B6kHRYt5ws_3d-IH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-9" value="3.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-8" vertex="1" connectable="0">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-9" value="5.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-8" vertex="1" connectable="0">
           <mxGeometry x="0.4362" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -487,7 +487,7 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-13" target="d1m8B6kHRYt5ws_3d-IH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-12" value="2.Create remote config parameters for the coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-11" vertex="1" connectable="0">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-12" value="4.Create remote config parameters for the coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-11" vertex="1" connectable="0">
           <mxGeometry x="0.0309" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -509,11 +509,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-22" value="4. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-22" value="6. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="310" y="310" width="210.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-0" value="Remote config condition" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="d1m8B6kHRYt5ws_3d-IH-1">
-          <mxGeometry x="220" y="116" width="110" height="54" as="geometry" />
+        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.42;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-10" target="d1m8B6kHRYt5ws_3d-IH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-2" value="2. Get all the conditions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kmBRN9uNwX38pJ1ZsOz-1">
+          <mxGeometry x="-0.1466" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-17" target="d1m8B6kHRYt5ws_3d-IH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-4" value="3. Select a condition" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kmBRN9uNwX38pJ1ZsOz-3">
+          <mxGeometry x="-0.3675" y="-2" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

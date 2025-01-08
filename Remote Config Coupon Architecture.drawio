@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3" pages="10">
   <diagram name="UniqueCoupon" id="ZGbOV7eQtPBch-2MRxAM">
     <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="stage 3 - group coupon" id="u_AN5IPS0ih3ytsY-9ik">
-    <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-0" />
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-1" parent="d1m8B6kHRYt5ws_3d-IH-0" />
@@ -464,16 +464,6 @@
         </mxCell>
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-3" value="6. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-6" target="d1m8B6kHRYt5ws_3d-IH-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-5" value="5. Get the&amp;nbsp; group coupon deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -502,21 +492,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-13" value="Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
+        <mxCell id="d1m8B6kHRYt5ws_3d-IH-13" value="BE Coupon Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="390.00000000000006" y="80" width="50" height="36" as="geometry" />
         </mxCell>
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-14" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="399.99999999999994" y="515.63" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" source="d1m8B6kHRYt5ws_3d-IH-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-16" value="4. Send the group coupon deep link (contains coupon id) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d1m8B6kHRYt5ws_3d-IH-15" vertex="1" connectable="0">
-          <mxGeometry x="0.2353" y="3" relative="1" as="geometry">
-            <mxPoint x="56" y="40" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-17" value="Game Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="145" y="80" width="30" height="60" as="geometry" />
@@ -532,7 +512,88 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-22" value="7. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d1m8B6kHRYt5ws_3d-IH-23" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="deeplink coupon" id="CoaIIqpau1WObvy7Co4r">
+    <mxGraphModel dx="1434" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-0" />
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-1" parent="tETeYlrsgDz7YL3yW2mN-0" />
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-6" target="tETeYlrsgDz7YL3yW2mN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-3" value="6. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-2">
+          <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-6" target="tETeYlrsgDz7YL3yW2mN-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-5" value="5. Get the&amp;nbsp; group coupon deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-4">
+          <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-6" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="145" y="520.63" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="380.84000000000003" y="461.11" width="78.33" height="149.03" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-10" target="tETeYlrsgDz7YL3yW2mN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-9" value="3.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-8">
+          <mxGeometry x="0.4362" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-10" value="Firebase Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="600" y="273.6" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-13" target="tETeYlrsgDz7YL3yW2mN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-12" value="2.Export the coupon data to &lt;br&gt;remote config parameter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-11">
+          <mxGeometry x="0.0309" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-13" value="Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="390.00000000000006" y="80" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-14" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="399.99999999999994" y="515.63" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-16" value="4. Send the group coupon deep link (contains coupon id) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-15">
+          <mxGeometry x="0.2353" y="3" relative="1" as="geometry">
+            <mxPoint x="56" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-17" value="Game Support" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="145" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-17" target="tETeYlrsgDz7YL3yW2mN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-19" value="1.Create a Group Coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-18">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-20" value="7. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+          <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-21" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
           <mxGeometry x="125" y="280" width="70" height="70" as="geometry" />
         </mxCell>
       </root>

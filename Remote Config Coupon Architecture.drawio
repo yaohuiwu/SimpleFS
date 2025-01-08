@@ -539,7 +539,7 @@
         <mxCell id="tETeYlrsgDz7YL3yW2mN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-6" target="tETeYlrsgDz7YL3yW2mN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-3" value="6. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-2">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-3" value="7. Click the deep link to get gifts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-2">
           <mxGeometry x="-0.3273" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -549,7 +549,7 @@
             <mxPoint x="160" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-5" value="5. Get the deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-4">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-5" value="6. Get the deep link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-4">
           <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -590,7 +590,7 @@
             <mxPoint x="160" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-16" value="4. Send the coupon deep link (contains a deepLink key) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-15">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-16" value="5. Send the coupon deep link (contains a deepLink key) &lt;br&gt;to a social media group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-15">
           <mxGeometry x="0.2353" y="3" relative="1" as="geometry">
             <mxPoint x="56" y="40" as="offset" />
           </mxGeometry>
@@ -606,11 +606,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-20" value="7. Get all the deeplink coupon parameter and find the parameter that matches the deepLink key. Open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-20" value="8. Get all the deeplink coupon parameter and find the parameter that matches the deepLink key. Open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
           <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tETeYlrsgDz7YL3yW2mN-21" value="Social media" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
           <mxGeometry x="125" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FZytPvCAS0HbjuWfsjqy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-17" target="tETeYlrsgDz7YL3yW2mN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZytPvCAS0HbjuWfsjqy-1" value="4. Copy the deepLink key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZytPvCAS0HbjuWfsjqy-0">
+          <mxGeometry x="0.0179" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

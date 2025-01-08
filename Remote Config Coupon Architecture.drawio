@@ -266,7 +266,7 @@
         <mxCell id="FdjcoKlKRdfvs3Vdznoc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FdjcoKlKRdfvs3Vdznoc-1" source="FdjcoKlKRdfvs3Vdznoc-10" target="FdjcoKlKRdfvs3Vdznoc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FdjcoKlKRdfvs3Vdznoc-9" value="7.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-8">
+        <mxCell id="FdjcoKlKRdfvs3Vdznoc-9" value="6.Pull remote config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-8">
           <mxGeometry x="0.4362" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -294,7 +294,7 @@
         <mxCell id="FdjcoKlKRdfvs3Vdznoc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FdjcoKlKRdfvs3Vdznoc-1" source="FdjcoKlKRdfvs3Vdznoc-16" target="FdjcoKlKRdfvs3Vdznoc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FdjcoKlKRdfvs3Vdznoc-15" value="6.Create and publish the coupon to firebase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-14">
+        <mxCell id="FdjcoKlKRdfvs3Vdznoc-15" value="5.Create and publish the coupon to firebase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-14">
           <mxGeometry x="-0.034" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -311,9 +311,9 @@
         <mxCell id="FdjcoKlKRdfvs3Vdznoc-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FdjcoKlKRdfvs3Vdznoc-1" source="FdjcoKlKRdfvs3Vdznoc-20" target="FdjcoKlKRdfvs3Vdznoc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qZIg5xpvr1wZTgAJ0myl-0" value="4. Create a unique coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-21">
+        <mxCell id="qZIg5xpvr1wZTgAJ0myl-0" value="4. Create a Unique/MultiUnique coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FdjcoKlKRdfvs3Vdznoc-21">
           <mxGeometry x="-0.1379" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FdjcoKlKRdfvs3Vdznoc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FdjcoKlKRdfvs3Vdznoc-1" source="FdjcoKlKRdfvs3Vdznoc-17" target="FdjcoKlKRdfvs3Vdznoc-6">
@@ -328,7 +328,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FdjcoKlKRdfvs3Vdznoc-25" value="8. Get the unique coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FdjcoKlKRdfvs3Vdznoc-1">
+        <mxCell id="FdjcoKlKRdfvs3Vdznoc-25" value="7. Get the unique coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FdjcoKlKRdfvs3Vdznoc-1">
           <mxGeometry x="405" y="477.11" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FdjcoKlKRdfvs3Vdznoc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="FdjcoKlKRdfvs3Vdznoc-1" source="FdjcoKlKRdfvs3Vdznoc-20" target="FdjcoKlKRdfvs3Vdznoc-6">

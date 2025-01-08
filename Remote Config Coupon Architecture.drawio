@@ -579,7 +579,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-13" value="Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-13" value="BE Coupon Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">
           <mxGeometry x="390.00000000000006" y="80" width="50" height="36" as="geometry" />
         </mxCell>
         <mxCell id="tETeYlrsgDz7YL3yW2mN-14" value="Game APP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/mobile_app.svg;" vertex="1" parent="tETeYlrsgDz7YL3yW2mN-1">

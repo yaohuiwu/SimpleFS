@@ -512,6 +512,9 @@
         <mxCell id="d1m8B6kHRYt5ws_3d-IH-22" value="4. Get the group coupon parameter value of from remote config and open a claim popup if it&#39;s a valid coupon json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d1m8B6kHRYt5ws_3d-IH-1" vertex="1">
           <mxGeometry x="310" y="410" width="210.01" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2kmBRN9uNwX38pJ1ZsOz-0" value="Remote config condition" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="d1m8B6kHRYt5ws_3d-IH-1">
+          <mxGeometry x="220" y="116" width="110" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

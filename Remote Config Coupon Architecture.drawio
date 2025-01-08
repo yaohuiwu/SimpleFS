@@ -574,7 +574,7 @@
         <mxCell id="tETeYlrsgDz7YL3yW2mN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tETeYlrsgDz7YL3yW2mN-1" source="tETeYlrsgDz7YL3yW2mN-13" target="tETeYlrsgDz7YL3yW2mN-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tETeYlrsgDz7YL3yW2mN-12" value="2.4.Create remote config parameters for the coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-11">
+        <mxCell id="tETeYlrsgDz7YL3yW2mN-12" value="2.Create remote config parameters for the coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tETeYlrsgDz7YL3yW2mN-11">
           <mxGeometry x="0.0309" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

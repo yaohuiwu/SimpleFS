@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AhviKRiUWXPr5EEYWYBn-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-5" value="Operator" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="AhviKRiUWXPr5EEYWYBn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AhviKRiUWXPr5EEYWYBn-4" target="AhviKRiUWXPr5EEYWYBn-4">

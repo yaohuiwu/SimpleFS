@@ -4,11 +4,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AhviKRiUWXPr5EEYWYBn-1" target="AhviKRiUWXPr5EEYWYBn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-10" value="2.Create/update the force_update remote config parameter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AhviKRiUWXPr5EEYWYBn-9">
+          <mxGeometry x="-0.2222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AhviKRiUWXPr5EEYWYBn-1" value="BE Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="148" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AhviKRiUWXPr5EEYWYBn-2" value="Firebase Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AhviKRiUWXPr5EEYWYBn-4" target="AhviKRiUWXPr5EEYWYBn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-12" value="3.Get the value of force_update parameter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AhviKRiUWXPr5EEYWYBn-11">
+          <mxGeometry x="-0.364" relative="1" as="geometry">
+            <mxPoint x="46" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AhviKRiUWXPr5EEYWYBn-4" value="Game Client" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="82.6" height="140" as="geometry" />
@@ -18,13 +34,25 @@
             <mxPoint x="277" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AhviKRiUWXPr5EEYWYBn-8" value="Create a&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AhviKRiUWXPr5EEYWYBn-7">
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-8" value="1.Log in and create/update the force update config&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AhviKRiUWXPr5EEYWYBn-7">
           <mxGeometry x="0.0653" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhviKRiUWXPr5EEYWYBn-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AhviKRiUWXPr5EEYWYBn-4" target="AhviKRiUWXPr5EEYWYBn-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AhviKRiUWXPr5EEYWYBn-14" value="4.Check the value,&amp;nbsp;&lt;div&gt;if forceUpdate == true, then open the force update popup&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AhviKRiUWXPr5EEYWYBn-13">
+          <mxGeometry x="-0.64" relative="1" as="geometry">
+            <mxPoint x="-62" y="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

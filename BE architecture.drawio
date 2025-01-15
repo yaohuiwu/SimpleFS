@@ -79,10 +79,10 @@
         </mxCell>
         <mxCell id="YG-Nd98rjGqurVpmYyMf-26" value="1.Modify the configuration&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YG-Nd98rjGqurVpmYyMf-24">
           <mxGeometry x="-0.0943" y="3" relative="1" as="geometry">
-            <mxPoint x="-4" y="54" as="offset" />
+            <mxPoint x="18" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YG-Nd98rjGqurVpmYyMf-22" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
+        <mxCell id="YG-Nd98rjGqurVpmYyMf-22" value="Operator" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
           <mxGeometry x="50" y="121" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YG-Nd98rjGqurVpmYyMf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.216;entryY=0.298;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG-Nd98rjGqurVpmYyMf-6" target="YG-Nd98rjGqurVpmYyMf-13">

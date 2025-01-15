@@ -15,7 +15,7 @@
         <mxCell id="YG-Nd98rjGqurVpmYyMf-4" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YG-Nd98rjGqurVpmYyMf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YG-Nd98rjGqurVpmYyMf-6" target="YG-Nd98rjGqurVpmYyMf-7">
+        <mxCell id="YG-Nd98rjGqurVpmYyMf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YG-Nd98rjGqurVpmYyMf-6" target="YG-Nd98rjGqurVpmYyMf-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="160" as="targetPoint" />
           </mxGeometry>
@@ -37,9 +37,9 @@
           <mxGeometry x="410" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YG-Nd98rjGqurVpmYyMf-7" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="120" width="60" height="80" as="geometry" />
+          <mxGeometry x="680" y="119" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YG-Nd98rjGqurVpmYyMf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=1;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG-Nd98rjGqurVpmYyMf-7" target="YG-Nd98rjGqurVpmYyMf-6">
+        <mxCell id="YG-Nd98rjGqurVpmYyMf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YG-Nd98rjGqurVpmYyMf-7" target="YG-Nd98rjGqurVpmYyMf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YG-Nd98rjGqurVpmYyMf-28" value="Read the configuration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YG-Nd98rjGqurVpmYyMf-11">
